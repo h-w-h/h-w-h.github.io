@@ -2,7 +2,9 @@
 layout: page
 title: About
 permalink: /
+published: true
 ---
+![prose_unpublished.png]({{site.baseurl}}/public/images/prose_unpublished.png)
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
