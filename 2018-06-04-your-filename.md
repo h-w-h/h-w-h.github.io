@@ -1,8 +1,10 @@
 ## A New Post
-```javascript
+
+<pre>
+```javascript{.expand}
 var x = 10;
-```{.expand}
-</div>
+```
+</pre>
 
 ```javascript
 var x = 10;
