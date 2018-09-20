@@ -70,6 +70,20 @@ Currently, I am not teaching any courses. Below is a table of previous courses a
         </div>
   	  </td>
     </tr>     
+    <tr>
+      <td align="center" width = "33%">        
+        Fall 2017
+      </td>
+      <td align="center" width = "34%">
+        Math 131A
+      </td>  
+      <td align="center" width = "33%">
+        <div class="brightness">
+          <a href="/public/code/2018-ASI.zip"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
+          </a>
+        </div>
+  	  </td>
+    </tr>     
   </table>
   </center>
 </div> 
