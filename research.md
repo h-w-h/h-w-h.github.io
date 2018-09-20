@@ -34,7 +34,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   
  
   <center>
-  <table style="width: 150px">
+  <table style="width: 150px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Preprint</th>
       <th align="center">Citation</th>
