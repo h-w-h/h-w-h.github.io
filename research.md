@@ -15,6 +15,9 @@ Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets 
   \\[x \in C := \bigcap_{i=1}^m C_i. \\]
 Iterative methods for solving this sort of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) and define a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with \\(x^1\\) arbitrary and
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
+Then the main sort of result will be to assert
+\\[ \lim_{k\rightarrow\infty} x^k = x^* \in C \\],
+noting whether the convergence is weak or strong, and to assert the rate at which \\(x^k\longrightarrow x^*\\).
   
 ### Asynchronous Methods
 ### Variational Models in Image Processing
