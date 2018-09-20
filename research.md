@@ -5,7 +5,7 @@ published: true
 ---
 <div class = "featured">
   <center>
-    Click below to see my academic profiles. <br />
+    Click below to see my research available on other websites. <br />
         <div class="brightness">
           <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
           </a>
