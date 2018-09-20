@@ -13,7 +13,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 
 
-
+<div class = "message">
 <div class = "featured">
 <style>
 
@@ -74,4 +74,5 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   
   
     The code <a href="https://google.com"><img src="/public/images/download-icon.png"/></a>
+  </div>
   </div>
