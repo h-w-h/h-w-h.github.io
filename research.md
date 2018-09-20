@@ -29,6 +29,8 @@ On the other hand, variational models are used in many image processing methods,
   \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
 
 ### The Intersection of Methods
+
+
 Consider the problem
 \\[\min_{u\in C} J(u) \\]
 and suppose
