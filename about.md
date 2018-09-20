@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Welcome to my home page. I am a second year graduate student in the Math Department at UCLA. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. My primary area of research interest is optimization. Particular specialization interests include iterative projection methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction).
 </p>
 
 <div class = "featured">
