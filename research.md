@@ -70,4 +70,38 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
  
 
+/* This is a comment */
+> H. Heaton and Y. Censor, Asynchronous Sequential Inertial Iterations for Common Fixed Points Problems with an Application to Linear Systems. _Technical Report_, August 15, 2018.
+
+<div class = "featured">
+  <center>
+  <table style="width: 150px">
+    <tr>
+      <th align="center">Preprint</th>
+      <th align="center">Citation</th>
+      <th align="center">Code</th>
+    </tr>
+    <tr>
+      <td align="center" width = "33%">
+        <div class="brightness">
+          <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon.png" alt="Avatar" class="image" style="width:46px">
+          </a> 
+        </div>
+      </td>
+      <td align="center" width = "34%">
+        <div class="brightness">
+          <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/cite-icon.png" alt="Avatar" class="image" style="width:50px">
+          </a> 
+        </div>
+      </td>  
+      <td align="center" width = "33%">
+        <div class="brightness">
+          <a href="http://www.google.com"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+          </a>
+        </div>
+  	  </td>
+    </tr>
+  </table>
+  </center>
+</div> 
  
