@@ -11,7 +11,7 @@ published: true
   The particular specialization of interest is the intersection of fixed iterative fixed point algorithms, variational modeling for image processing, and asynchronous computations. Below we discuss each of these independently and then how they may be bridged. 
   
 ### Convex Feasibility Problems
-  Fixed point problems require finding a point \\(x \in C\\) where
+  Fixed point problems require finding a point 
   \\[x \in C := \bigcap_{i=1}^m C_i, \\]
  where \\( \lbrace C_i\rbrace_{i=1}^m \\) forms a finite family of closed convex sets with nonempty intersection. Typically, algorithms will consist of a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) such that
  \\[ x^{k+1} := T_k \left( x^k \right). \\]
