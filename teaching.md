@@ -16,7 +16,7 @@ Currently, I am not teaching any courses. Below is a table of previous courses a
     </tr>
     <tr>
       <td align="center" width = "33%">
-        d
+        Math 131A (Sec. 2,5)
       </td>
       <td align="center" width = "34%">
         <div class="brightness">
