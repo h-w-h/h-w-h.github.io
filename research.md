@@ -34,25 +34,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     opacity: .25;
 }
 
-.overlay {
-  position: relative;
-  top: -75px;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 50px;
-  width: 50px;
-  opacity: 0;
-  transition: 1.0s ease;
-  background-color: #92b4f2;
-}
-
-.container:hover .overlay {
-  opacity: 0.5;
-  height: 50px;
-  width: 50px
-}
-
+ 
  
 </style>  
   
