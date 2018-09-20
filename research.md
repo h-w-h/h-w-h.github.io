@@ -13,7 +13,7 @@ published: true
 ### Convex Feasibility Problems
 Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets with nonempty intersection.  Convex feasibility problems (CFPs) consist of finding a point \\(x\\) in the intersection of the \\(C_i\\)'s, i.e.,
   \\[x \in C := \bigcap_{i=1}^m C_i. \\]
-Iterative methods for solving this sort of problem often consist of a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) such that
+Iterative methods for solving this sort of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) such that
  \\[ x^{k+1} := T_k \left( x^k \right). \\]
   
 ### Asynchronous Methods
