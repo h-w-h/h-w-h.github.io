@@ -99,13 +99,13 @@ Two subtopics in this realm are of particular interest. The first is superioriza
       </td>
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="code"><img src="/public/images/cite-icon.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/citations/2018-Der-Free-Sup.bib"><img src="/public/images/cite-icon.png" alt="Avatar" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="http://www.google.com"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/code/2018-Der-Free-Sup.zip"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
           </a>
         </div>
   	  </td>
