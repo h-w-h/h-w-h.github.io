@@ -24,7 +24,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 }
 
 .overlay {
-  position: absolute;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 20px;
