@@ -73,7 +73,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
  
 
-> Y. Censor, H. Heaton, and R.W. Schulte, Derivative-free superiorization with component-wise perturbations. _Numerical Algorithms_, accepted for publication. DOI:10.1007/s11075-018-0524-0.
+> Y. Censor, H. Heaton, and R.W. Schulte, Derivative-free superiorization with component-wise perturbations. _Numerical Algorithms_, Published April 11, 2018. DOI:10.1007/s11075-018-0524-0.
 
 <div class = "featured">
   <center>
