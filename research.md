@@ -59,7 +59,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   
   <div class="container">
   <img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:30px">
-  <div class="middle">
+  <div class="overlay">
     <div class="text">.bib file</div>
   </div>
 </div>
