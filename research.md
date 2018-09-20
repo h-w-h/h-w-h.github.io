@@ -99,7 +99,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
       </td>
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/cite-icon.png" alt="Avatar" class="image" style="width:50px">
+          <a href="code"><img src="/public/images/cite-icon.png" alt="Avatar" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
