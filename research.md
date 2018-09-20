@@ -3,6 +3,21 @@ layout: page
 title: Research
 published: true
 ---
+<div class = "featured">
+  <center>
+    Click below to see my academic profiles. <br />
+        <div class="brightness">
+          <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
+          </a>
+        </div>
+        <b style="word-space:2em">&nbsp;&nbsp;</b>
+        <div class="brightness">
+          <a href="https://arxiv.org/search/?query=howard+heaton&searchtype=all&source=header"><img src="/public/images/arXiv-icon.png" alt="arXiv" class="image" style="width:70px">
+          </a>
+       </div>  
+  </center>
+</div>
+
 
 ## Overview
   The primary branch of research interest is optimization. 
@@ -24,20 +39,7 @@ On the other hand, variational models are used in many image processing methods,
   
  
 
-<div class = "featured">
-  <center>
-    Click below to see my academic profiles. <br />
-        <div class="brightness">
-          <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
-          </a>
-        </div>
-        <b style="word-space:2em">&nbsp;&nbsp;</b>
-        <div class="brightness">
-          <a href="https://arxiv.org/search/?query=howard+heaton&searchtype=all&source=header"><img src="/public/images/arXiv-icon.png" alt="arXiv" class="image" style="width:70px">
-          </a>
-       </div>  
-  </center>
-</div>
+
 
 
 ## Papers
