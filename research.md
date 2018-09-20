@@ -20,6 +20,8 @@ Then the main sort of result will be to assert
 noting whether the convergence is weak or strong, and to assert the rate at which \\(x^k\longrightarrow x^*\\).
   
 ### Asynchronous Methods
+Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms.
+
 ### Variational Models in Image Processing
 On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u:\Omega\rightarrow \mathbb{R}\\) of the energy \\(E(u)\\) defined by
   \\[ E(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
