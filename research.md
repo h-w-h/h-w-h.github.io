@@ -46,9 +46,7 @@ published: true
     table, th, td {border: 0px solid black;}
   </style>  
 </div>  
-
-![cite]({{site.baseurl}}/public/images/cite-icon4.png)
-
+ 
 
 ## Papers
 
