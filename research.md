@@ -13,14 +13,15 @@ published: true
 ### Convex Feasibility Problems
 Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets with nonempty intersection.  Convex feasibility problems (CFPs) consist of finding a point \\(x\\) in the intersection of the convex sets, i.e.,
   \\[x \in C := \bigcap_{i=1}^m C_i. \\]
-Iterative methods for solving this sort of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) and define a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with \\(x^1\\) arbitrary and
+Iterative methods for solving this sort of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) and define a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with \\(x^1\\) arbitrary and the update
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 Then the main sort of result will be to assert
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
 noting whether the convergence is weak or strong, and to assert the rate at which \\(x^k\longrightarrow x^*\\).
   
 ### Asynchronous Methods
-Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms.
+Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms. As it relates to convex feasibility problems, we seek to replace the \\(x^k\\) in the update above with \\( \hat{x}^k = x^{k-j} \\), which is a possibly out-of-date iterate, where \\(j \in \lbrace 0, 1, 2, \ldots, \tau \rbrace \\) for some nonnegative integer \\(\tau\\). In mathematical terms, we write
+ \\[ x^{k+1} := T_k \left( \hat{x}^k \right), \ \ \forall \ k \geq 1. \\]
 
 ### Variational Models in Image Processing
 On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u:\Omega\rightarrow \mathbb{R}\\) of the energy \\(E(u)\\) defined by
