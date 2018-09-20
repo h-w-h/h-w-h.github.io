@@ -91,7 +91,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 <div class = "featured">
   <center>
-  <table style="width: 150px">
+  <table style="width: 200px">
     <tr>
       <th align="center">Reprint</th>
       <th align="center">Preprint</th>
