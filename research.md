@@ -113,3 +113,5 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   </table>
   </center>
 </div>
+
+![reprint-icon]({{site.baseurl}}/public/images/reprint-icon.png)
