@@ -18,7 +18,7 @@ published: true
   
 ### Asynchronous Methods
 ### Variational Models in Image Processing
-On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u\\) of the energy \\(E(u)\\) defined by
+On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u:\Omega\rightarrow R\\) of the energy \\(E(u)\\) defined by
   \\[ E(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
 
 ### The Intersection of Methods
