@@ -46,9 +46,7 @@ published: true
     table, th, td {border: 0px solid black;}
   </style>  
 </div>  
-
- ![preprint-icon2.png]({{site.baseurl}}/public/images/preprint-icon2.png)
-
+ 
 
 
 
