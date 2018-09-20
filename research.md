@@ -34,7 +34,11 @@ Consider the problem
 and suppose
 Below is a paper that presents the asynchronous sequential inertial (ASI) algorithm that weaves together convex feasibility problems and asynchronous methods in a simple manner. 
  
-
+ 
+<div class = "featured">
+  <!-- This snippet gives a break in sections -->
+  <br />
+</div>
 
 
 
