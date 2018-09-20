@@ -112,7 +112,7 @@ On the other hand, variational models are used in many image processing methods,
 
 <div class = "featured">
   <center>
-    Click below to see my research available on other websites. <br />
+    Click below to see my research available on other websites. <br /> <br />
         <div class="brightness">
           <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
           </a>
