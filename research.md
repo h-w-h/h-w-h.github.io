@@ -16,6 +16,7 @@ published: true
   
 ### Asynchronous Methods
 ### Variational Models in Image Processing
+### The Intersection of Methods
   
  
 
