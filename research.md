@@ -28,7 +28,7 @@ With appropriate assumptions, this new sequence also converges. This modificatio
 On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u:\Omega\rightarrow \mathbb{R}\\) of the energy \\(J(u)\\) defined by
   \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
 
-### The Intersection of Methods ###
+### *The Intersection of Methods* ###
 Consider the problem
 \\[\min_{u\in C} J(u) \\]
 and suppose
