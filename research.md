@@ -16,6 +16,10 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 <div class = "featured">
 <style>
+.container {
+  position: relative;
+  width: 50%;
+}
 
 .image {
   display: block;
@@ -27,10 +31,10 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 20px;
+  left: 0;
   right: 0;
   height: 100%;
-  width: 50px;
+  width: 100%;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #92b4f2;
@@ -54,11 +58,10 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 </style>  
   
   <div class="container">
-  <a href="https://google.com"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+  <img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
   <div class="overlay">
     <div class="text">.bib file</div>
   </div>
-  </a>
 </div>
   
   
