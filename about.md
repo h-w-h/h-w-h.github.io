@@ -29,6 +29,12 @@ published: true
 </p>
 
 <div class = "featured">
+  <center>
+    <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
+  </center>
+</div>
+
+<div class = "featured">
   	<center>
   	More of my background can be found via my Curriculum Vitae.
   	<br />  	
@@ -38,13 +44,7 @@ published: true
     </div>
   </center>
 </div>
- 
-    
-> _Tidbit:_ My Erdös number is 3 thanks to [Yair Censor](http://math.haifa.ac.il/yair/) who published with [Ron Aharoni](http://www.math.technion.ac.il/Site/people/process.php?id=687) who is an [Erdös 1](https://files.oakland.edu/users/grossman/enp/Erdos1.html).
 
-<div class = "featured">
-  <center>
-    <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
-  </center>
-</div>
+> _Tidbit:_ My Erdös number is 3 thanks to [Yair Censor](http://math.haifa.ac.il/yair/) who published with [Ron Aharoni](http://www.math.technion.ac.il/Site/people/process.php?id=687) who is an [Erdös 1](https://files.oakland.edu/users/grossman/enp/Erdos1.html).
+ 
  
