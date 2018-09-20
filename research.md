@@ -72,7 +72,6 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   </div>
 </div>
   
-  
-    The code <a href="https://google.com"><img src="/public/images/download-icon.png"/></a>
+   <a href="https://google.com"><img src="/public/images/download-icon.png"/></a>
   </div>
   </div>
