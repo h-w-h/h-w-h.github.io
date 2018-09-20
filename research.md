@@ -26,6 +26,9 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   </center>
 </div>
 
+![arXiv-icon]({{site.baseurl}}/public/images/arXiv-icon.png)
+
+
 
  
 <div class = "featured">
