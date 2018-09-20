@@ -4,8 +4,6 @@ title: About
 permalink: /
 published: true
 ---
-![prose_unpublished.png]({{site.baseurl}}/public/images/prose_unpublished.png){:height="36px" width="36px"}
-
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
