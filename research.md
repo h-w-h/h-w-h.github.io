@@ -77,7 +77,7 @@ published: true
       </td>  
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="/public/code/2018-ASI.zip"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/code/2018-ASI.zip"><img src="/public/images/code-icon.png" alt="code" class="image" style="width:50px">
           </a>
         </div>
   	  </td>
@@ -122,7 +122,7 @@ published: true
       </td>  
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="/public/code/2018-Der-Free-Sup.zip"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/code/2018-Der-Free-Sup.zip"><img src="/public/images/code-icon.png" alt="Avatar" class="image" style="width:50px">
           </a>
         </div>
   	  </td>
