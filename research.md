@@ -19,7 +19,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 .image {
   display: block;
-  width: auto;
+  width: 50px;
   height: auto;
 }
 
@@ -27,11 +27,11 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 0;
+  left: 20px;
   right: 0;
-  height: 50 px;
+  height: 100%;
   width: 50px;
-  opacity: 1;
+  opacity: 0;
   transition: 0.5s ease;
   background-color: #92b4f2;
 }
@@ -52,12 +52,16 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   text-align: center;
 }
 </style>  
- 
+  
+  <div class="container">
   <a href="https://google.com"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
   <div class="overlay">
     <div class="text">.bib file</div>
   </div>
   </a>
- 
-   
+</div>
+  
+  
+  
+    The code <a href="https://google.com"><img src="/public/images/download-icon.png"/></a>
   </div>
