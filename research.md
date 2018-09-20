@@ -32,12 +32,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   </style>  
   
   
-  <div id="container">
-    <div class="brightness">
-  	  Preprint <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
-      </a>
-    </div>
-  </div>
+ 
   
   <table style="width: 150px">
     <tr>
