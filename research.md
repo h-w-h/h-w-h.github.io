@@ -63,7 +63,7 @@ published: true
     <tr>
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon.png" alt="Avatar" class="image" style="width:46px">
+          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon.png" alt="preprint" class="image" style="width:46px">
           </a> 
         </div>
       </td>
