@@ -31,7 +31,8 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     table, th, td {border: 0px solid black;}
   </style>  
 </div>  
-  
+
+
 
 > H. Heaton and Y. Censor, Asynchronous Sequential Inertial Iterations for Common Fixed Points Problems with an Application to Linear Systems. _Technical Report_, August 15, 2018.
 
