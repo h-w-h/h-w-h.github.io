@@ -48,7 +48,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     <tr>
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/paper-icon.png" alt="Avatar" class="image" style="width:50px">
+          <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon.png" alt="Avatar" class="image" style="width:50px">
           </a> 
         </div>
       </td>
@@ -67,5 +67,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     </tr>
   </table>
 </div> 
+
+![preprint-icon]({{site.baseurl}}/public/images/preprint-icon.png)
 
  
