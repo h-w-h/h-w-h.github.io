@@ -47,6 +47,8 @@ published: true
   </style>  
 </div>  
 
+![cite]({{site.baseurl}}/public/images/cite-icon4.png)
+
 
 ## Papers
 
