@@ -26,28 +26,7 @@ published: true
        </div>  
   </center>
 </div>
- 
- 
-<div class = "featured">
-  <style>
-    .image {
-      display: block; 
-    }
 
-    .brightness {
-        display: inline-block;
-        opacity: 0.95;
-
-    }
-    .brightness img:hover {
-        opacity: .25;
-    }  
-
-    table, th, td {border: 0px solid black;}
-  </style>  
-</div>  
- 
- 
 
 ## Papers
 
