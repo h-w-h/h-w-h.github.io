@@ -85,19 +85,25 @@ Two subtopics in this realm are of particular interest. The first is superioriza
       <th align="center">Code</th>
     </tr>
     <tr>
-      <td align="center" width = "33%">
+      <td align="center" width = "25%">
+        <div class="brightness">
+          <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon.png" alt="Avatar" class="image" style="width:46px">
+          </a> 
+        </div>
+      </td>      
+      <td align="center" width = "25%">
         <div class="brightness">
           <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon.png" alt="Avatar" class="image" style="width:46px">
           </a> 
         </div>
       </td>
-      <td align="center" width = "34%">
+      <td align="center" width = "25%">
         <div class="brightness">
           <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/cite-icon.png" alt="Avatar" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
-      <td align="center" width = "33%">
+      <td align="center" width = "25%">
         <div class="brightness">
           <a href="http://www.google.com"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
           </a>
