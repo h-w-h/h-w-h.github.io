@@ -46,7 +46,9 @@ published: true
     table, th, td {border: 0px solid black;}
   </style>  
 </div>  
- ![]({{site.baseurl}}//reprint-icon2.png)![reprint-icon2.png]({{site.baseurl}}/reprint-icon2.png)
+ 
+
+![reprint-icon2.png]({{site.baseurl}}/public/images/reprint-icon2.png)
 
 
 
