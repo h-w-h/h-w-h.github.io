@@ -129,5 +129,3 @@ published: true
   </table>
   </center>
 </div>
-
-
