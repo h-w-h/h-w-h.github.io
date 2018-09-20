@@ -31,7 +31,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   right: 0;
   height: 50 px;
   width: 50px;
-  opacity: 0;
+  opacity: 1;
   transition: 0.5s ease;
   background-color: #92b4f2;
 }
