@@ -47,7 +47,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 }
 
 .container:hover .overlay {
-  opacity: 0.1;
+  opacity: 0.5;
   height: 50px;
   width: 50px
 }
