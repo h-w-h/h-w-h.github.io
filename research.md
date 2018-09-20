@@ -34,7 +34,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   left: 0;
   right: 0;
   height: 100%;
-  width: 100%;
+  width: 50px;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #92b4f2;
