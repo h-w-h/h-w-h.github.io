@@ -9,7 +9,7 @@ published: true
   \\[x \in C := \bigcap_{i=1}^m C_i, \\]
  where \\( \lbrace C_i\rbrace_{i=1}^m \\) forms a finite family of closed convex sets with nonempty intersection. On the other hand, variational models are used in many image processing methods, e.g., the Rudin-Osher-Fatemi (ROF) model
  
-  \\[ \mbox{min}_u \int_{\Omega} |\nabla u | \ \mbox{d}x + \lambda \int_{\Omega} |u-f|^2 \ \mbox{d}x. \\]
+  \\[  \int_{\Omega} |\nabla u | \ {d}x + \lambda \int_{\Omega} |u-f|^2 \ {d}x. \\]
  
   Two subtopics in this realm are of particular interest. The first is superiorization, which is a heuristic methodology that lies somewhere between the feasibility-seaking and constrained minimization branches of optimization. See Professor Yair Censor's webpage for a comprehensive bibliography of papers on this topic. The second is asynchronous algorithms, which aim to introduce robustness and greater computational efficiency when solving fixed point problems.
  
