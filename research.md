@@ -79,6 +79,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   <center>
   <table style="width: 150px">
     <tr>
+      <th align="center">Reprint</th>
       <th align="center">Preprint</th>
       <th align="center">Citation</th>
       <th align="center">Code</th>
