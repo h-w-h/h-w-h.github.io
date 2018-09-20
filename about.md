@@ -28,11 +28,14 @@ published: true
 </p>
 
 <div class = "featured">
-  	More of my background can be found via my CV below.     
+  	More of my background can be found via my CV below.   
+  	<br />
+  	<center>
 	<div class="brightness">
       <a href="https://www.math.ucla.edu/~heaton/heaton-cv.pdf"><img src="/public/images/cv-icon.png" alt="Avatar" class="image" style="width:60px">
       </a>
     </div>
+  </center>
 </div>
  
     
