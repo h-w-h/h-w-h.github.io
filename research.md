@@ -30,7 +30,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 }
 .brightness img:hover {
-    opacity: .5;
+    opacity: .25;
 }
 
 .overlay {
