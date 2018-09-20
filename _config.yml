@@ -9,12 +9,12 @@ permalink:        pretty
 # Setup
 title:            Hyde
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://jacob.moorman.me/hyde
+url:              https://h-w-h.github.io
 baseurl:          ""
 
 author:
-  name:           'Jacob Moorman'
-  url:            https://jacob.moorman.me/
+  name:           'Howard Heaton'
+  url:            https://h-w-h.github.io
 
 # Blog configuration
 has_blog:         True
