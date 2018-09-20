@@ -61,4 +61,5 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     </tr>
   </table>
 </div> 
-  
+
+  ![paper-icon]({{site.baseurl}}//public/images/paper-icon.png)
