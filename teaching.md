@@ -13,7 +13,7 @@ Currently, I am not teaching any courses. Below is a table of previous courses a
     <tr>
       <th align="center">Quarter</th>
       <th align="center">Course</th>
-      <th align="center">Notes</th>
+      <th align="center">TA Notes</th>
     </tr>
     <tr>
       <td align="center" width = "33%">        
