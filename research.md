@@ -38,6 +38,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
 <div class = "featured">
   <!-- This snippet gives a break in sections -->
   <br />
+  <br />
 </div>
 
 
