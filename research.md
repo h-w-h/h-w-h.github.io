@@ -39,7 +39,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     </div>
   </div>
   
-  <table style="width: 100px">
+  <table style="width: 150px">
     <tr>
       <th>Preprint</th>
       <th>Code</th>
