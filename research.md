@@ -12,8 +12,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 </p>
 
 
-
-<div class = "message">
+ 
 <div class = "featured">
 <style>
 
@@ -32,14 +31,11 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 .brightness img:hover {
     opacity: .25;
 }  
-</style>  
-  
+</style>    
   <div id="container">
   <div class="brightness">
   <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px"></a>
 </div>
   </div>
-  
+  </div>
  
-  </div>
-  </div>
