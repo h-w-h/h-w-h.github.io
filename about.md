@@ -8,6 +8,9 @@ published: true
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
+<div class = "featured">
+  <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:100px">
+</div>
 ![howard-heaton.jpg]({{site.baseurl}}/public/images/howard-heaton.jpg)
 
 ![howard-heaton]({{site.baseurl}}//public/images/howard-heaton.jpg)
