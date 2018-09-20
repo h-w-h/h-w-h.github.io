@@ -8,7 +8,7 @@ During my time preparing for the qualifying exams at UCLA, I have typeset some n
 
 <div class = "featured">
   <center>
-  <table style="width: 200px; background-color:rgba(0, 0, 0, 0);">
+  <table style="width: 300px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Basic</th>
       <th align="center">Numerical</th>
@@ -17,7 +17,7 @@ During my time preparing for the qualifying exams at UCLA, I have typeset some n
     <tr>
       <td align="center" width = "33.33%">
         <div class="brightness">
-          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
+          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/reprint-icon2.png" alt="preprint" class="image" style="width:50px">
           </a> 
         </div>
       </td>
