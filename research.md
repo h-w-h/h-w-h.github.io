@@ -31,7 +31,8 @@ On the other hand, variational models are used in many image processing methods,
 ### The Intersection of Methods
 Consider the problem
 \\[\min_{u\in C} J(u) \\]
-and suppose  
+and suppose
+Below is a paper that presents the asynchronous sequential inertial (ASI) algorithm that weaves together convex feasibility problems and asynchronous methods in a simple manner. 
  
 
 
