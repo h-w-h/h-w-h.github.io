@@ -27,6 +27,10 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   .brightness img:hover {
       opacity: .25;
   }  
+  
+  table, th, td {
+    border: 0px solid black;
+}
   </style>    
   <div id="container">
     <div class="brightness">
@@ -34,5 +38,20 @@ Two subtopics in this realm are of particular interest. The first is superioriza
       </a>
     </div>
   </div>
+  
+  <table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
 </div>
  
