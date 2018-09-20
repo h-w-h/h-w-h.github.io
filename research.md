@@ -36,7 +36,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   height: 100%;
   width: 100%;
   opacity: 0;
-  transition: 1.5s ease;
+  transition: 1.0s ease;
   background-color: #008CBA;
 }
 
