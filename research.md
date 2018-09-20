@@ -63,6 +63,6 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   </table>
 </div> 
 
-![preprint-icon]({{site.baseurl}}/public/images/preprint-icon.png)
+ 
 
  
