@@ -5,7 +5,10 @@ published: true
 ---
 
 ## Overview
-  My primary area of research interest is optimization. Particular specialization interests include iterative projection methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction). Fixed point problems require finding \\(x \in C\\) such that
+  My primary area of research interest is optimization. 
+  The particular specialization of interest is the intersection of fixed iterative fixed point algorithms, variational modeling for image processing, and asynchronous computations. 
+  
+  Particular specialization interests include iterative projection methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction). Fixed point problems require finding \\(x \in C\\) such that
   \\[x \in C := \bigcap_{i=1}^m C_i, \\]
  where \\( \lbrace C_i\rbrace_{i=1}^m \\) forms a finite family of closed convex sets with nonempty intersection. On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u\\) of the energy \\(E(u)\\) defined by
   \\[ E(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
