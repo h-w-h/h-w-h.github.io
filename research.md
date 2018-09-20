@@ -46,7 +46,8 @@ published: true
     table, th, td {border: 0px solid black;}
   </style>  
 </div>  
- 
+ ![]({{site.baseurl}}//reprint-icon2.png)![reprint-icon2.png]({{site.baseurl}}/reprint-icon2.png)
+
 
 
 
@@ -104,7 +105,7 @@ published: true
     <tr>
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="https://rdcu.be/LjcS"><img src="/public/images/reprint-icon.png" alt="Avatar" class="image" style="width:46px">
+          <a href="https://rdcu.be/LjcS"><img src="/public/images/reprint-icon2.png" alt="Avatar" class="image" style="width:46px">
           </a> 
         </div>
       </td>      
