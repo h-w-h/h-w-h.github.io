@@ -25,10 +25,11 @@ Asynchronous algorithms are of great practical interest as they open the door to
 With appropriate assumptions, this new sequence also converges. This modification enables various processors to use out-of-date information and, therefore, continue computations rather than remain idle waiting for the slowest processor.
 
 ### Variational Models in Image Processing
-On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u:\Omega\rightarrow \mathbb{R}\\) of the energy \\(E(u)\\) defined by
-  \\[ E(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
+On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u:\Omega\rightarrow \mathbb{R}\\) of the energy \\(J(u)\\) defined by
+  \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
 
 ### The Intersection of Methods
+Consider the 
 
   
  
