@@ -4,7 +4,7 @@ title: Teaching
 published: true
 ---
 
-Currently, I am not teaching any courses. Below is a table of previous courses and my discussion notes.
+Currently, I am not teaching any courses. Below is a table of previous courses I have TAed for along with my discussion notes.
  
 
 <div class = "featured">
