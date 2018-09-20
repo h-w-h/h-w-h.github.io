@@ -33,7 +33,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   
   
  
-  
+  <center>
   <table style="width: 150px">
     <tr>
       <th align="center">Preprint</th>
@@ -61,6 +61,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   	  </td>
     </tr>
   </table>
+  </center>
 </div> 
 
  
