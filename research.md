@@ -14,7 +14,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 ![Google-scholar]({{site.baseurl}}/public/images/google-scholar-icon.png)
 
 <div class = "featured">
-  <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:46px">
+  <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:50px">
     </a>
 </div>
 
