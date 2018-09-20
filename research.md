@@ -21,7 +21,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 .image {
   display: block;
   width: 50px;
-  height: 50px;
+  height: 40px;
 }
 
 .brightness {
