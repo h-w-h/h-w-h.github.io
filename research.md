@@ -62,4 +62,4 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   </table>
 </div> 
 
-  ![paper-icon]({{site.baseurl}}//public/images/paper-icon.png)
+  ![paper-icon]({{site.baseurl}}/public/images/paper-icon.png)
