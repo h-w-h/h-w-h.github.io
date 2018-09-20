@@ -46,7 +46,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     </tr>
     <tr>
       <td width = "50%"> Nothing </td>
-      <td><a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+      <td width = "50%"><a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
       </a></td>
     </tr>
   </table>
