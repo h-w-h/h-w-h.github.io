@@ -15,7 +15,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 <div class = "featured">
   <div class = "container">
-  <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon.png" alt="Avatar" class="image" style="width:46px">
+
     </div>
 </div>
 
