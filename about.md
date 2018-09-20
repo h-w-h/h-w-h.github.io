@@ -7,8 +7,11 @@ published: true
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
-![404-error]({{site.baseurl}}/public/images/404-error.PNG)
 
+
+Tidbit: My Erdös number is 3 thanks to [Yair Censor](http://math.haifa.ac.il/yair/) who published with [Ron Aharoni](http://www.math.technion.ac.il/Site/people/process.php?id=687) who is an [Erdös 1](https://files.oakland.edu/users/grossman/enp/Erdos1.html).
+
+ 
 
 
 \\[c = \sqrt{a^2 + b^2}\\]
