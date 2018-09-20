@@ -9,7 +9,9 @@ published: true
 </p>
 
 <div class = "featured">
-  <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
+  <center>
+    <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
+  </center>
 </div>
  
 
