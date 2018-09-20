@@ -11,7 +11,7 @@ published: true
 <div class = "featured">
   <center>
     <div class="brightness">
-      <a href="https://arxiv.org/abs/1804.00123"><img src="/public/images/cv-icon.png" alt="Avatar" class="image" style="width:46px">
+      <a href="http://www.math.ucla.edu/~heaton/heaton-cv.pdf"><img src="/public/images/cv-icon.png" alt="Avatar" class="image" style="width:60px">
       </a>
     </div>
     <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
