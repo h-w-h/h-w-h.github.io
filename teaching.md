@@ -16,10 +16,7 @@ Currently, I am not teaching any courses. Below is a table of previous courses a
     </tr>
     <tr>
       <td align="center" width = "33%">
-        <div class="brightness">
-          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:46px">
-          </a> 
-        </div>
+        d
       </td>
       <td align="center" width = "34%">
         <div class="brightness">
