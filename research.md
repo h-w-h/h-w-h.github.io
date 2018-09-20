@@ -53,7 +53,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   background-color: #4CAF50;
   color: white;
   font-size: 16px;
-  padding: 16px 32px;
+  padding: 8px 16px;
 }
 </style>  
   
