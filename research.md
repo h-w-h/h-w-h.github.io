@@ -14,24 +14,25 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
  
 <div class = "featured">
-<style>
-.image {
-  display: block; 
-}
+  <style>
+  .image {
+    display: block; 
+  }
 
-.brightness {
-    display: inline-block;
-    opacity: 0.75;
+  .brightness {
+      display: inline-block;
+      opacity: 0.75;
 
-}
-.brightness img:hover {
-    opacity: .25;
-}  
-</style>    
+  }
+  .brightness img:hover {
+      opacity: .25;
+  }  
+  </style>    
   <div id="container">
-  <div class="brightness">
-  <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px"></a>
+    <div class="brightness">
+  	  <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+      </a>
+    </div>
+  </div>
 </div>
-  </div>
-  </div>
  
