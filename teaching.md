@@ -6,6 +6,9 @@ published: true
 
 Currently, I am not teaching any courses. Below is a table of previous courses and my discussion notes.
 
+![code-icon.png]({{site.baseurl}}/public/images/code-icon.png)
+
+
 <div class = "featured">
   <center>
   <table style="width: 80%; max-width: 400px; background-color:rgba(0, 0, 0, 0);">
