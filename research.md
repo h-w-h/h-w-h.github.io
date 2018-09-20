@@ -14,3 +14,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
  
 
 ![download-icon]({{site.baseurl}}/public/images/download-icon.png)
+
+<div class = "featured">
+     <a href="https://google.com"><img src="/public/images/download-icon.png"/></a>
+  </div>
