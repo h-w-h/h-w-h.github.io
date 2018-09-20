@@ -18,7 +18,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 <style>
 .container {
   position: relative;
-  width: 50%;
+  width: 50px;
 }
 
 .image {
