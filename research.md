@@ -30,8 +30,8 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   bottom: 0;
   left: 0;
   right: 0;
-  height: 100%;
-  width: 100%;
+  height: 50px;
+  width: 50px;
   opacity: 0;
   transition: 1.0s ease;
   background-color: #92b4f2;
