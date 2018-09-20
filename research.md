@@ -20,7 +20,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
           </a>
         </div>
         <div class="brightness">
-          <a href="https://arxiv.org/search/?query=howard+heaton&searchtype=all&source=header"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
+          <a href="https://arxiv.org/search/?query=howard+heaton&searchtype=all&source=header"><img src="/public/images/google-scholar-icon.png" alt="arxiv" class="image" style="width:70px">
           </a>
        </div>  
   </center>
