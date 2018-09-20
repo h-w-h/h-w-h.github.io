@@ -41,8 +41,8 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   
   <table>
     <tr>
-      <th>Month</th>
-      <th>Savings</th>
+      <th>Preprint</th>
+      <th>Code</th>
     </tr>
     <tr>
       <td>January</td>
