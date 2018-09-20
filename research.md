@@ -31,7 +31,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 0;
+  left: 20px;
   right: 0;
   height: 100%;
   width: 50px;
