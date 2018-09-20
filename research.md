@@ -15,23 +15,23 @@ Two subtopics in this realm are of particular interest. The first is superioriza
  
 <div class = "featured">
   <style>
-  .image {
-    display: block; 
-  }
+    .image {
+      display: block; 
+    }
 
-  .brightness {
-      display: inline-block;
-      opacity: 0.75;
+    .brightness {
+        display: inline-block;
+        opacity: 0.75;
 
-  }
-  .brightness img:hover {
-      opacity: .25;
-  }  
+    }
+    .brightness img:hover {
+        opacity: .25;
+    }  
+
+    table, th, td {border: 0px solid black;}
+  </style>  
   
-  table, th, td {
-    border: 0px solid black;
-}
-  </style>    
+  
   <div id="container">
     <div class="brightness">
   	  Preprint <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
@@ -40,18 +40,18 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   </div>
   
   <table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
-  </tr>
-</table>
+    <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
+    <tr>
+      <td>January</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>February</td>
+      <td>$80</td>
+    </tr>
+  </table>
 </div>
  
