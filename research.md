@@ -37,7 +37,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   width: 100%;
   opacity: 0;
   transition: 1.0s ease;
-  background-color: #008CBA;
+  background-color: #92b4f2;
 }
 
 .container:hover .overlay {
