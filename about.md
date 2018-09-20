@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 <p class="message">
-  Welcome to my home page. I am a second year graduate student in the Math Department at UCLA. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. My primary area of research interest is optimization. Particular specialization interests include iterative fixed-point methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction).
+  Welcome to my home page. I am a third year graduate student in the Math Department at UCLA. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. My primary area of research interest is optimization. Particular specialization interests include iterative fixed-point methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction).
 </p>
 
 <div class = "featured">
