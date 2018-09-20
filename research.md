@@ -27,7 +27,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   position: relative;
   top: 0;
   bottom: 0;
-  left: 20px;
+  left: 0;
   right: 0;
   height: 50 px;
   width: 50px;
