@@ -23,7 +23,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 .image {
   display: block;
-  width: 100%;
+  width: 50px;
   height: auto;
 }
 
