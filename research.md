@@ -87,7 +87,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     <tr>
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/reprint-icon.png" alt="Avatar" class="image" style="width:46px">
+          <a href="https://rdcu.be/LjcS"><img src="/public/images/reprint-icon.png" alt="Avatar" class="image" style="width:46px">
           </a> 
         </div>
       </td>      
