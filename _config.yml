@@ -7,17 +7,17 @@ plugins:          [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Howard Heaton
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://h-w-h.github.io
+title:            Hyde
+description:      ''
+url:              https://jacob.moorman.me/hyde
 baseurl:          ""
 
 author:
-  name:           'Howard Heaton'
-  url:            https://h-w-h.github.io
+  name:           'Jacob Moorman'
+  url:            https://jacob.moorman.me/
 
 # Blog configuration
-has_blog:         False
+has_blog:         True
 paginate:         1
 paginate_path:    "/blog/page:num/"
 blog_url:        "/blog/"
