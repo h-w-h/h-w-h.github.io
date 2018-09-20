@@ -13,7 +13,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
  
 
 <div class = "featured">
-  <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
+  <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
     </a>
 </div>
 
