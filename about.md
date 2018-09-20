@@ -47,5 +47,4 @@ published: true
     <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
   </center>
 </div>
-
-\\[c = \sqrt{a^2 + b^2}\\]
+ 
