@@ -23,17 +23,16 @@ During my time preparing for the qualifying exams at UCLA, I have typeset some n
       </td>
       <td align="center" width = "34%">
         <div class="brightness">
-          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="Avatar" class="image" style="width:50px">
+          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:46px">
           </a> 
         </div>
       </td>  
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="/public/code/2018-ASI.zip"><img src="/public/images/code-icon.png" alt="code" class="image" style="width:50px">
-          </a>
+          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:46px">
         </div>
   	  </td>
     </tr>
   </table>
   </center>
-</div> 
+</div>
