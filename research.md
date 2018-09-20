@@ -25,7 +25,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 }
 
 .overlay {
-  position: absolute;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
@@ -39,6 +39,8 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
 .container:hover .overlay {
   opacity: 1;
+  height: 50px;
+  width: 50px
 }
 
 .text {
