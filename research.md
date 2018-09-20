@@ -58,7 +58,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 </style>  
   
   <div class="container">
-  <img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:100%">
+  <img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:30px">
   <div class="middle">
     <div class="text">John Doe</div>
   </div>
