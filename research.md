@@ -47,11 +47,7 @@ published: true
   </style>  
 </div>  
  
-
-![reprint-icon2.png]({{site.baseurl}}/public/images/reprint-icon2.png)
-
-
-
+ 
 
 ## Papers
 
