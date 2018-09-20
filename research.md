@@ -58,10 +58,11 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 </style>  
   
   <div class="container">
-  <img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
+  <a href="https://google.com"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
   <div class="overlay">
     <div class="text">.bib file</div>
   </div>
+  </a>
 </div>
   
   
