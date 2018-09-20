@@ -11,11 +11,13 @@ published: true
 ### Convex Feasibility Problems
   Particular specialization interests include iterative projection methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction). Fixed point problems require finding \\(x \in C\\) such that
   \\[x \in C := \bigcap_{i=1}^m C_i, \\]
- where \\( \lbrace C_i\rbrace_{i=1}^m \\) forms a finite family of closed convex sets with nonempty intersection. On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u\\) of the energy \\(E(u)\\) defined by
-  \\[ E(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
+ where \\( \lbrace C_i\rbrace_{i=1}^m \\) forms a finite family of closed convex sets with nonempty intersection. Typically, algorithms will consist of a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) such that
+ \\[ x^{k+1} := T_k \left( x^k \right). \\]
   
 ### Asynchronous Methods
 ### Variational Models in Image Processing
+On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u\\) of the energy \\(E(u)\\) defined by
+  \\[ E(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
 
 ### The Intersection of Methods
 
