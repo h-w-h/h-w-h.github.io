@@ -11,8 +11,8 @@ During my time preparing for the qualifying exams at UCLA, I have typeset some n
   <table style="width: 150px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Basic</th>
-      <th align="center">Numerical Analysis</th>
-      <th align="center">Applied Differential Equations</th>
+      <th align="center">Numerical</th>
+      <th align="center">ADE</th>
     </tr>
     <tr>
       <td align="center" width = "33%">
