@@ -32,10 +32,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 }
 .brightness img:hover {
     opacity: .25;
-}
-
- 
- 
+}  
 </style>  
   
   <div id="container">
