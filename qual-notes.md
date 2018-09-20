@@ -8,7 +8,7 @@ During my time preparing for the qualifying exams at UCLA, I have typeset some n
 
 <div class = "featured">
   <center>
-  <table style="width: 300px; background-color:rgba(0, 0, 0, 0);">
+  <table style="width: 180px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Basic</th>
       <th align="center">Numerical</th>
