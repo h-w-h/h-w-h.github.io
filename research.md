@@ -16,9 +16,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 <div class = "featured">
 <style>
 .image {
-  display: block;
-  width: 50px;
-  height: 50px;
+  display: block; 
 }
 
 .brightness {
