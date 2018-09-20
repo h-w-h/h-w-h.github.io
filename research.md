@@ -6,7 +6,7 @@ published: true
 
 ## Overview
   The primary branch of research interest is optimization. 
-  The particular specialization of interest is the intersection of fixed iterative fixed point algorithms, variational modeling for image processing, and asynchronous computations. Below
+  The particular specialization of interest is the intersection of fixed iterative fixed point algorithms, variational modeling for image processing, and asynchronous computations. Below we discuss each of these independently and then how they may be bridged. 
   
   Particular specialization interests include iterative projection methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction). Fixed point problems require finding \\(x \in C\\) such that
   \\[x \in C := \bigcap_{i=1}^m C_i, \\]
