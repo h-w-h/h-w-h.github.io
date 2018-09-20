@@ -42,12 +42,16 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   <table style="width: 150px">
     <tr>
       <th>Preprint</th>
+      <th>Citation</th>
       <th>Code</th>
     </tr>
     <tr>
       <td width = "34%"> <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/paper-icon.png" alt="Avatar" class="image" style="width:50px">
       </a> 
       </td>
+      <td width = "34%"> <a href="http://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/paper-icon.png" alt="Avatar" class="image" style="width:50px">
+      </a> 
+      </td>  
       <td width = "33%"><a href="http://www.google.com"><img src="/public/images/download-icon.png" alt="Avatar" class="image" style="width:50px">
       </a></td>
     </tr>
