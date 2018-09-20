@@ -25,7 +25,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 }
 
 .brightness {
-    background-color: white;
+    background-color: blue;
     display: inline-block;
 
 }
