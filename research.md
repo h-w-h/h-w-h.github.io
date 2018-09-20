@@ -129,8 +129,6 @@ published: true
     </tr>
   </table>
   </center>
-  <br />
-  Icons sourced from <a href="https://icons8.com/">Icon8.</a>
 </div>
 
 
