@@ -13,8 +13,11 @@ Two subtopics in this realm are of particular interest. The first is superioriza
  
 
 <div class = "featured">
+  <center>
+    Click below to see my academic accounts. <br />
   <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
     </a>
+  </center>
 </div>
 
  
