@@ -10,19 +10,16 @@ Currently, I am not teaching any courses. Below is a table of previous courses a
   <center>
   <table style="width: 150px; background-color:rgba(0, 0, 0, 0);">
     <tr>
-      <th align="center">Course</th>
       <th align="center">Quarter</th>
+      <th align="center">Course</th>
       <th align="center">Notes</th>
     </tr>
     <tr>
-      <td align="center" width = "33%">
-        Math 131A (Sec. 2,5)
+      <td align="center" width = "33%">        
+        Spring 2018
       </td>
       <td align="center" width = "34%">
-        <div class="brightness">
-          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="Avatar" class="image" style="width:50px">
-          </a> 
-        </div>
+        Math 131A
       </td>  
       <td align="center" width = "33%">
         <div class="brightness">
