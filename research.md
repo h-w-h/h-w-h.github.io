@@ -29,7 +29,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   bottom: 0;
   left: 20px;
   right: 0;
-  height: 100%;
+  height: 50 px;
   width: 50px;
   opacity: 0;
   transition: 0.5s ease;
