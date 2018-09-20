@@ -53,17 +53,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   width: 50px
 }
 
-.text {
-  color: white;
-  font-size: 12px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
+ 
 </style>  
   
   <div id="container">
