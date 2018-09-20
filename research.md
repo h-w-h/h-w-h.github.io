@@ -24,6 +24,15 @@ Two subtopics in this realm are of particular interest. The first is superioriza
   height: auto;
 }
 
+.brightness {
+    background-color: white;
+    display: inline-block;
+
+}
+.brightness img:hover {
+    opacity: .5;
+}
+
 .overlay {
   position: relative;
   top: -75px;
