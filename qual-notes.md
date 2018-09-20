@@ -8,26 +8,26 @@ During my time preparing for the qualifying exams at UCLA, I have typeset some n
 
 <div class = "featured">
   <center>
-  <table style="width: 150px; background-color:rgba(0, 0, 0, 0);">
+  <table style="width: 180px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Basic</th>
       <th align="center">Numerical</th>
       <th align="center">ADE</th>
     </tr>
     <tr>
-      <td align="center" width = "33%">
+      <td align="center" width = "60px">
         <div class="brightness">
           <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
           </a> 
         </div>
       </td>
-      <td align="center" width = "34%">
+      <td align="center" width = "60px">
         <div class="brightness">
           <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
-      <td align="center" width = "33%">
+      <td align="center" width = "60px">
         <div class="brightness">
           <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
           </a>
