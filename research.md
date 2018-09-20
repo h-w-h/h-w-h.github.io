@@ -21,7 +21,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
 
     .brightness {
         display: inline-block;
-        opacity: 0.75;
+        opacity: 0.95;
 
     }
     .brightness img:hover {
