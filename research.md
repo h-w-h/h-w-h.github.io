@@ -7,7 +7,7 @@ published: true
  
   My primary area of research interest is optimization. Particular specialization interests include iterative projection methods for solving convex feasibility problems and their applications to image processing (e.g., denoising and image reconstruction). Fixed point problems require finding \\(x \in C\\) such that
   \\[x \in C := \bigcap_{i=1}^m C_i, \\]
- where \\( \lbrace C_i\rbrace_{i=1}^m \\) forms a finite family of closed convex sets with nonempty intersection. On the other hand, variational models are used in many image processing methods, e.g.,
+ where \\( \lbrace C_i\rbrace_{i=1}^m \\) forms a finite family of closed convex sets with nonempty intersection. On the other hand, variational models are used in many image processing methods, e.g., the Rudin-Osher-Fatemi (ROF) model
  
   \\[ \mbox{min}_{u} \int_{\Omega} |\nabla u | \ \mbox{d}x + \lambda \int_{\Omega} |u-f|^2 \ \mbox{d}x. \\]
  
