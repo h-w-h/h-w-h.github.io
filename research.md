@@ -61,5 +61,4 @@ Two subtopics in this realm are of particular interest. The first is superioriza
     </tr>
   </table>
 </div> 
- 
-![cite-icon]({{site.baseurl}}/public/images/cite-icon.png)
+  
