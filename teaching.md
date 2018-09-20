@@ -8,7 +8,7 @@ Currently, I am not teaching any courses. Below is a table of previous courses a
 
 <div class = "featured">
   <center>
-  <table style="width: 60%; max-width: 300px; background-color:rgba(0, 0, 0, 0);">
+  <table style="width: 60%; max-width: 500px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Quarter</th>
       <th align="center">Course</th>
