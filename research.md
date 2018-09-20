@@ -19,6 +19,7 @@ Two subtopics in this realm are of particular interest. The first is superioriza
           <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
           </a>
         </div>
+        <b style="word-space:2em">&nbsp;&nbsp;</b>
         <div class="brightness">
           <a href="https://arxiv.org/search/?query=howard+heaton&searchtype=all&source=header"><img src="/public/images/arXiv-icon.png" alt="arXiv" class="image" style="width:70px">
           </a>
