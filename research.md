@@ -18,6 +18,7 @@ Iterative methods for solving this type of problem often use a sequence of opera
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
 noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\). 
+
 In the case of convergence, \\(x^*\\) is usually a fixed point of some subset of the sequence of operators. As an example, we refer the reader to the [projection onto covex sets (POCS) method](https://en.wikipedia.org/wiki/Projections_onto_convex_sets).
   
 ### *Asynchronous Methods* ###
