@@ -25,8 +25,9 @@ Asynchronous algorithms are of great practical interest as they open the door to
 This enables, in practice, each processor to perform its computations at its own speed (rather than remain idle waiting for the slowest processor to catch up). This also introduces robustness to dropped network transmissions. With appropriate assumptions on the delays and step-sizes used, asynchronous updates generate a sequence that converges a feasible point in \\(C\\). Moreover, in some cases, asynchronous algorithms require _fewer_ iterations to converge than their synchronous counterpart.
 
 ### *Variational Models in Image Processing* ###
-On the other hand, variational models are used in many image processing methods, e.g., using the Rudin-Osher-Fatemi (ROF) model we seek the minimizer \\(u:\Omega\rightarrow \mathbb{R}\\) of the energy \\(J(u)\\) defined by
+Let \\(\mathcal{H}\\) be a Hilbert space of functions  \\(u:\Omega\rightarrow\mathbb{R}\\), where \\(\Omega\subset\mathbb{R}^n\\). Variational methods define some form of energy functional for which a minimizer \\(u\\) possesses desirable properties, e.g., \\(u\\) is a denoised version of a blurry and grainy image \\(f\\). The Rudin-Osher-Fatemi (ROF) model proposes using the energy  \\((J(u)\\) to accomplish this task, which is defined by
   \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
+Here \\(\nabla\\) denotes the gradient and \\(\lambda > 0\\) is a regularization parameter.
 
 ### *The Intersection of Methods* ###
 Consider the constrained optimization problem
