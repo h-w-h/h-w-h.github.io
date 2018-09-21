@@ -31,7 +31,7 @@ Let \\(\mathcal{H}\\) be a Hilbert space of functions  \\(u:\Omega\rightarrow\ma
 \\[ \min_{u\in\mathcal{H}} J(u). \\]
 For example, if \\(f\\) is a blurry and grainy image, the classic Rudin-Osher-Fatemi (ROF) model proposes using the energy  \\(J(u)\\) for denoising, which is defined by
   \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
-Here \\(\nabla\\) denotes the gradient and \\(\lambda > 0\\) is a regularization parameter. Many image processing models exist and there are various sets of desirable features in different contexts. In fact, about a decade ago, nonlocal variational methods were introduced, which generalize their local counterparts and have been demonstrated to be quite effective. Several algorithms also exist for solving these variational problems, often using fixed point algorithms.
+Here \\(\nabla\\) denotes the gradient and \\(\lambda > 0\\) is a regularization parameter. Many image processing models exist and there are various sets of desirable features in different contexts. Nonlocal variational methods, which generalize local operators (e.g., gradients), have also been demonstrated to be quite effective in this field. Several algorithms also exist for solving these variational problems, often using fixed point algorithms.
 
 ### *The Intersection of Methods* ###
 Consider the constrained optimization problem
