@@ -29,9 +29,10 @@ On the other hand, variational models are used in many image processing methods,
   \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
 
 ### *The Intersection of Methods* ###
-Consider the problem
-\\[\min_{u\in C} J(u) \\]
-and suppose
+Consider the constrained optimization problem
+\\[\min_{u\in C} J(u). \\]
+Assuming \\(J\\) is convex, many algorithms may be used to solve this problem.
+
 Below is a paper that presents the asynchronous sequential inertial (ASI) algorithm that weaves together convex feasibility problems and asynchronous methods in a simple manner. 
  
  
