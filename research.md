@@ -31,7 +31,7 @@ On the other hand, variational models are used in many image processing methods,
 ### *The Intersection of Methods* ###
 Consider the constrained optimization problem
 \\[\min_{u\in C} J(u). \\]
-Assuming \\(J\\) is convex, many algorithms may be used to solve this problem. However, even fast methods like Bregman Operator Splitting (BOS) do not scale well when finding feasible point in \\(C\\) (not neccessarily minimizing \\(J\\)) is difficult. One example of this occurs in computed tomography (CT) where there are _many_ constraints and significant levels of noise is introduced to the measurements. Variational methods yield magnificent results, but are not yet able to be utilized on many problems due to their massive scale. However, i
+Assuming \\(J\\) is convex, many algorithms may be used to solve this problem. However, even fast methods like Bregman Operator Splitting (BOS) do not scale well when finding feasible point in \\(C\\) (not neccessarily minimizing \\(J\\)) is difficult. One example of this occurs in computed tomography (CT) where there are _many_ constraints and significant levels of noise are introduced to the measurements. Variational methods yield magnificent results, but are not yet able to be utilized on many problems due to their massive scale. However, i
 
 
 Below is a paper that presents the asynchronous sequential inertial (ASI) algorithm that weaves together convex feasibility problems and asynchronous methods in a simple manner. 
