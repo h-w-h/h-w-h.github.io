@@ -19,7 +19,7 @@ The main sort of result is usually to assert the chosen sequence of operators an
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
 noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\). 
 
-> In the case of convergence, \\(x^*\\) is usually a fixed point of some subset of the sequence of operators. As an example, we refer the reader to the [projection onto covex sets (POCS) method](https://en.wikipedia.org/wiki/Projections_onto_convex_sets).
+> In the case of convergence, \\(x^*\\) is usually a fixed point of some subset of the sequence of operators, causing such methods to often be called 'fixed point methods'. As an example, we refer the reader to the [projection onto covex sets (POCS) method](https://en.wikipedia.org/wiki/Projections_onto_convex_sets).
   
 ### *Asynchronous Methods* ###
 Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms. Let \\(\tau\\) be a nonnegative integer, identifying how out-of-date of information we wish for processors to be able to utilize. For synchronous methods \\(\tau =0\\), but for asynchronous methods we assume \\(\tau > 0\\). As they relates to CFPs, asynchronous methods replace the \\(x^k\\) in the update above with \\( \hat{x}^k = x^{k-j} \\), which is a possibly out-of-date iterate, where \\(j \in \lbrace 0, 1, 2, \ldots, \tau \rbrace \\). We need not know what particular value \\(j\\) has at each iteration step; instead it suffices to know \\(j\leq \tau\\) for all \\(k\\). In mathematical terms, we write
