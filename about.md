@@ -51,7 +51,7 @@ published: true
 
 <div class = "featured">
   <center>
-    <img src="/public/images/slackline-icon.png" alt="slackline-icon" class="image" style="width:80%; max-width:400px">
+    <img src="/public/images/slackline-icon.png" alt="slackline-icon" class="image" style="width:50px">
   </center>
 </div> 
  
