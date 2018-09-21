@@ -22,6 +22,8 @@ noting whether the convergence is weak or strong. Second to this, we often seek 
 ### *Asynchronous Methods* ###
 Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms. Let \\(\tau\\) be a nonnegative integer, identifying how out-of-date of information we wish for processors to be able to utilize. For synchronous methods \\(\tau =0\\), but for asynchronous methods we assume \\(\tau > 0\\). As they relates to CFPs, asynchronous methods replace the \\(x^k\\) in the update above with \\( \hat{x}^k = x^{k-j} \\), which is a possibly out-of-date iterate, where \\(j \in \lbrace 0, 1, 2, \ldots, \tau \rbrace \\). We need not know what particular value \\(j\\) has at each iteration step; instead it suffices to know \\(j\leq \tau\\) for all \\(k\\). In mathematical terms, we write
  \\[ x^{k+1} := T_k \left( \hat{x}^k \right), \ \ \forall \ k \geq 1. \\]
+In practice, we take this to mean a processor can carry out its computations using whatever iterate \\(x^k\\) it received most recently. 
+
 With appropriate assumptions, this new sequence also converges. This modification enables various processors to use out-of-date information and, therefore, continue computations (rather than remain idle waiting for the slowest processor to catch up).
 
 ### *Variational Models in Image Processing* ###
