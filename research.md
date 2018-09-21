@@ -27,7 +27,7 @@ This enables, in practice, each processor to perform its computations at its own
 ### *Variational Models in Image Processing* ###
 Let \\(\mathcal{H}\\) be a Hilbert space of functions  \\(u:\Omega\rightarrow\mathbb{R}\\), where \\(\Omega\subset\mathbb{R}^n\\). A variational method defines an energy functional for which a minimizer \\(u\\) possesses desirable properties, e.g., \\(u\\) is a denoised version of a blurry and grainy image \\(f\\). The classic Rudin-Osher-Fatemi (ROF) model proposes using the energy  \\(J(u)\\) for denoising, which is defined by
   \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
-Here \\(\nabla\\) denotes the gradient and \\(\lambda > 0\\) is a regularization parameter. Many image processing models exist and there are various sets of desirable features in different contexts. In fact, about a decade ago, nonlocal variational methods were introduced, which generalize their local counterparts and have been demonstrated to be quite effective. 
+Here \\(\nabla\\) denotes the gradient and \\(\lambda > 0\\) is a regularization parameter. Many image processing models exist and there are various sets of desirable features in different contexts. In fact, about a decade ago, nonlocal variational methods were introduced, which generalize their local counterparts and have been demonstrated to be quite effective. T
 
 ### *The Intersection of Methods* ###
 Consider the constrained optimization problem
