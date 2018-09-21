@@ -15,7 +15,7 @@ Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets 
   \\[x \in C := \bigcap_{i=1}^m C_i. \\]
 Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) and define a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with \\(x^1\\) arbitrary and the update
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
-The main sort of result is usually to assert, for the chosen sequence of operators,
+The main sort of result is usually to assert the chosen sequence of operators yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
 noting whether the convergence is weak or strong, and to assert the rate at which \\(x^k\longrightarrow x^*\\).
   
