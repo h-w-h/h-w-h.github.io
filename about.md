@@ -50,7 +50,7 @@ published: true
  
 <div class = "featured">
   <center>
-  	More of my background can be found via my Curriculum Vitae.
+  	Outside of academia, two of my favorite hobbies are running and slacklining.
   	<br />  	
 	<div class="brightness">    
       <a href="https://www.math.ucla.edu/~heaton/slackline.html">
