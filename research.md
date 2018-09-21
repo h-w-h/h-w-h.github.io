@@ -20,7 +20,7 @@ The main sort of result is usually to assert the chosen sequence of operators an
 noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\).
   
 ### *Asynchronous Methods* ###
-Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms. As it relates to convex feasibility problems, we seek to replace the \\(x^k\\) in the update above with \\( \hat{x}^k = x^{k-j} \\), which is a possibly out-of-date iterate, where \\(j \in \lbrace 0, 1, 2, \ldots, \tau \rbrace \\) for some nonnegative integer \\(\tau\\). In mathematical terms, we write
+Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms. As it relates to convex feasibility problems, such methods seek to replace the \\(x^k\\) in the update above with \\( \hat{x}^k = x^{k-j} \\), which is a possibly out-of-date iterate, where \\(j \in \lbrace 0, 1, 2, \ldots, \tau \rbrace \\) for some nonnegative integer \\(\tau\\). In mathematical terms, we write
  \\[ x^{k+1} := T_k \left( \hat{x}^k \right), \ \ \forall \ k \geq 1. \\]
 With appropriate assumptions, this new sequence also converges. This modification enables various processors to use out-of-date information and, therefore, continue computations rather than remain idle waiting for the slowest processor.
 
