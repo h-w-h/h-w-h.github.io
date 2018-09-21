@@ -34,7 +34,7 @@ For example, if \\(f\\) is a blurry and grainy image, the classic Rudin-Osher-Fa
 Here \\(\nabla\\) denotes the gradient and \\(\lambda > 0\\) is a regularization parameter. Many image processing models exist and there are various sets of desirable features in different contexts. Nonlocal variational methods, which generalize local operators (e.g., gradients), have also been demonstrated to be quite effective in this field. Several algorithms also exist for solving these variational problems, often using fixed point algorithms.
 
 ### *The Intersection of Methods* ###
-Consider the constrained optimization problem
+For a functional \\(J:\mathcal{H}\rightarrow \mathbb{R}\\), consider the constrained optimization problem
 \\[\min_{u\in C} J(u). \\]
 Assuming \\(J\\) is convex, many algorithms have been proven to generate sequences that converge to solutions of this problem. However, even fast methods like Bregman Operator Splitting (BOS) for image processing problems do not scale well when simply finding a feasible point in \\(C\\) is difficult (i.e., without attempting to minimize \\(J\\)). One example of this occurs in computed tomography (CT) where there are _many_ constraints and significant levels of noise are introduced to the measurements. Variational methods yield magnificent results, but are not yet able to be utilized on many problems due to their massive scale. On the other hand, feasibility-seeking algorithms scale very well. We hypothesize fast feasibility-seeking algorithms can be perturbed in such a way that, for roughly the same computational cost as the original algorithm, the perturbed algorithm can solve the constrained minimization problem. This marks the edge of current research. 
 
