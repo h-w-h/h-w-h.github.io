@@ -47,8 +47,7 @@ published: true
 
 > _Tidbit:_ My Erdös number is 3 thanks to [Yair Censor](http://math.haifa.ac.il/yair/) who published with [Ron Aharoni](http://www.math.technion.ac.il/Site/people/process.php?id=687) who is an [Erdös 1](https://files.oakland.edu/users/grossman/enp/Erdos1.html).
  
-![]({{site.baseurl}}//public/images/slackline-icon.png)![slackline-icon.png]({{site.baseurl}}/public/images/slackline-icon.png)
-
+ 
 <div class = "featured">
   <center>
     <a href="https://www.math.ucla.edu/~heaton/slackline.html">
