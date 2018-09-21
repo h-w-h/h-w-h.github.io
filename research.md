@@ -62,7 +62,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
     <tr>
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:46px">
+          <a href="https://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:46px">
           </a> 
         </div>
       </td>
