@@ -50,9 +50,13 @@ published: true
  
 <div class = "featured">
   <center>
-    <a href="https://www.math.ucla.edu/~heaton/slackline.html">
-    <img src="/public/images/slackline-icon.png" alt="slackline-icon" class="image" style="width:80px">
-    </a>
+  	More of my background can be found via my Curriculum Vitae.
+  	<br />  	
+	<div class="brightness">    
+      <a href="https://www.math.ucla.edu/~heaton/slackline.html">
+      <img src="/public/images/slackline-icon.png" alt="slackline-icon" class="image" style="width:80px">
+      </a>
+    </div>
   </center>
 </div> 
  
