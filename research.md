@@ -17,7 +17,7 @@ Iterative methods for solving this type of problem often use a sequence of opera
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
-noting whether the convergence is weak or strong, and to assert the rate at which \\(x^k\longrightarrow x^*\\).
+noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\).
   
 ### *Asynchronous Methods* ###
 Asynchronous algorithms are of great practical interest as they open the door to greater utilization of processing power than anologous synchronous algorithms. As it relates to convex feasibility problems, we seek to replace the \\(x^k\\) in the update above with \\( \hat{x}^k = x^{k-j} \\), which is a possibly out-of-date iterate, where \\(j \in \lbrace 0, 1, 2, \ldots, \tau \rbrace \\) for some nonnegative integer \\(\tau\\). In mathematical terms, we write
