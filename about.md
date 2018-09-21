@@ -51,7 +51,9 @@ published: true
 
 <div class = "featured">
   <center>
+    <a href="https://www.math.ucla.edu/~heaton/heaton-cv.pdf">
     <img src="/public/images/slackline-icon.png" alt="slackline-icon" class="image" style="width:50px">
+    </a>
   </center>
 </div> 
  
