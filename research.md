@@ -137,7 +137,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
         </div>
         <b style="word-space:2em">&nbsp;&nbsp;</b>
         <div class="brightness">
-          <a href="https://arxiv.org/search/?query=howard+heaton&searchtype=all&source=header"><img src="/public/images/arXiv-icon.png" alt="arXiv" class="image" style="width:70px">
+          <a href="http://www.math.ucla.edu/~heaton/papers/2018-03-28-Der-Free-Sup-Preprint.pdf"><img src="/public/images/arXiv-icon.png" alt="arXiv" class="image" style="width:70px">
           </a>
        </div>  
   </center>
