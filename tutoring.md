@@ -26,7 +26,7 @@ published: true
 
 <div class = "featured">
   <center>
-  <table style="width: 200px; background-color:rgba(0, 0, 0, 0);">
+  <table style="width: 250px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Fall 2017</th>
       <th align="center">Spring 2017</th>
