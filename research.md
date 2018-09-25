@@ -3,6 +3,9 @@ layout: page
 title: Research
 published: true
 ---
+![howard-heaton.jpg]({{site.baseurl}}/public/TA-notes/howard-heaton.jpg)
+
+
 ## Overview ##
   The primary branch of research interest is optimization. 
   The current particular specialization of interest is the intersection of iterative fixed point algorithms, variational modeling for image processing, and asynchronous computations. Below we briefly describe each of these independently and where they intersect.
