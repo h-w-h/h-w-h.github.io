@@ -23,3 +23,28 @@ published: true
   alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
   <!-- End of StatCounter Code for Default Guide -->
 </div>
+
+<div class = "featured">
+  <center>
+  <table style="width: 150px; background-color:rgba(0, 0, 0, 0);">
+    <tr>
+      <th align="center">Spring 2017</th>
+      <th align="center">Fall 2018</th>
+    </tr>
+    <tr>
+      <td align="center" width = "33%">
+        <div class="brightness">
+          <a href="https://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:46px">
+          </a> 
+        </div>
+      </td>
+      <td align="center" width = "34%">
+        <div class="brightness">
+          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="Avatar" class="image" style="width:50px">
+          </a> 
+        </div>
+      </td>  
+    </tr>
+  </table>
+  </center>
+</div> 
