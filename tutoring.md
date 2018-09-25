@@ -34,7 +34,7 @@ published: true
     <tr>
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="https://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:46px">
+          <a href="https://www.math.ucla.edu/~heaton/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="Spring 2017" class="image" style="width:46px">
           </a> 
         </div>
       </td>
