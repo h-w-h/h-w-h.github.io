@@ -24,7 +24,7 @@ Currently, I am not a teaching assistant (TA) for any courses. Below is a table 
       </td>  
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="/public/code/2018-ASI.zip"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
+          <a href="/public/TA-notes/2018S-Heaton-MATH-131A-Discussion-Notes.pdf"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
           </a>
         </div>
   	  </td>
