@@ -32,13 +32,13 @@ published: true
       <th align="center">Spring 2017</th>
     </tr>
     <tr>
-      <td align="center" width = "33%">
+      <td align="center" width = "50%">
         <div class="brightness">
           <a href="public/course-evals/2017F-MATH-146-Heaton-Evals.pdf"><img src="/public/images/preprint-icon2.png" alt="Spring 2017" class="image" style="width:46px">
           </a> 
         </div>
       </td>
-      <td align="center" width = "34%">
+      <td align="center" width = "50%">
         <div class="brightness">
           <a href="/public/course-evals/2017S-MATH-164-Heaton-Evals.pdf"><img src="/public/images/preprint-icon2.png" alt="Fall 2018" class="image" style="width:50px">
           </a> 
