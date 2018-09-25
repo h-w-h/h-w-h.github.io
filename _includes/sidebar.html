@@ -19,7 +19,7 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-      		<p style="font-size:12pt; color:white">
+      		<p style="font-size:14pt; color:white">
             <a class="sidebar-nav-item{% if page.url contains node.url %}{% if node.url != '/' or page.url == node.url %} active{% endif %}{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
       		</p>
           {% endif %}
