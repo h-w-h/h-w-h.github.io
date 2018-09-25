@@ -73,5 +73,4 @@ published: true
   class="statcounter" src="//c.statcounter.com/11458818/0/c3a494a0/0/"
   alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
   <!-- End of StatCounter Code for Default Guide -->
-
 </div>
