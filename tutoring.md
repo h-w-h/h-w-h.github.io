@@ -40,7 +40,7 @@ published: true
       </td>
       <td align="center" width = "34%">
         <div class="brightness">
-          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/preprint-icon2.png" alt="Fall 2018" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
