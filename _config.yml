@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Howard Heaton
 description:      ''
-url:              https://h-w-h.github.io
+url:              https://howardheaton.tech
 baseurl:          ""
 
 # Options: 7, 8, 9, a, b, c, d, e, f
@@ -17,7 +17,7 @@ theme_id: "d"
 
 author:
   name:           'Howard Heaton'
-  url:            https://h-w-h.github.io
+  url:            https://howardheaton.tech
 
 # Blog configuration
 has_blog:         False
