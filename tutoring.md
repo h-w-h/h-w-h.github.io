@@ -48,3 +48,5 @@ published: true
   </table>
   </center>
 </div> 
+![preprint-icon2.png]({{site.baseurl}}/public/course-evals/preprint-icon2.png)
+
