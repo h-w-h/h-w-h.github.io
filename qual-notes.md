@@ -17,19 +17,19 @@ During my time preparing for the qualifying exams at UCLA, I have typeset some n
     <tr>
       <td align="center">
         <div class="brightness">
-          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
+          <a href="/public/qual-notes/Heaton-Basic-Exam-Notes.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
           </a> 
         </div>
       </td>
       <td align="center">
         <div class="brightness">
-          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
+          <a href="/public/qual-notes/Heaton-Numerical-Exam-Notes.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
       <td align="center">
         <div class="brightness">
-          <a href="https://arxiv.org/abs/1808.04723"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
+          <a href="/public/qual-notes/Heaton-ADE-Exam-Notes.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:50px">
           </a>
         </div>
   	  </td>
