@@ -3,6 +3,7 @@ layout: page
 title: Research
 published: true
 ---
+![404-error.PNG]({{site.baseurl}}/public/qual-notes/404-error.PNG)
 
 
 
