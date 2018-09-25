@@ -39,7 +39,7 @@ published: true
   	More of my background can be found via my Curriculum Vitae.
   	<br />  	
 	<div class="brightness">
-      <a href="https://www.math.ucla.edu/~heaton/heaton-cv.pdf"><img src="/public/images/cv-icon2.png" alt="CV" class="image" style="width:60px">
+      <a href="/public/heaton-cv.pdf"><img src="/public/images/cv-icon2.png" alt="CV" class="image" style="width:60px">
       </a>
     </div>
   </center>
@@ -58,5 +58,4 @@ published: true
       </a>
     </div>
   </center>
-</div> 
- 
+</div>
