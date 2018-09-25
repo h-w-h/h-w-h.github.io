@@ -29,7 +29,7 @@ published: true
   <table style="width: 150px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Spring 2017</th>
-      <th align="center">Fall 2018</th>
+      <th align="center">Fall 2017</th>
     </tr>
     <tr>
       <td align="center" width = "33%">
