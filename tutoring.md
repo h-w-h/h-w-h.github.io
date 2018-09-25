@@ -34,7 +34,7 @@ published: true
     <tr>
       <td align="center" width = "50%">
         <div class="brightness">
-          <a href="public/course-evals/2017F-MATH-146-Heaton-Evals.pdf"><img src="/public/images/preprint-icon2.png" alt="Spring 2017" class="image" style="width:50px">
+          <a href="/public/course-evals/2017F-MATH-146-Heaton-Evals.pdf"><img src="/public/images/preprint-icon2.png" alt="Spring 2017" class="image" style="width:50px">
           </a> 
         </div>
       </td>
