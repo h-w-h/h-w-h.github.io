@@ -260,7 +260,6 @@ a.sidebar-nav-item:focus {
     background-color: white;
     color: #6a9fb5;
     text-align: center;
-  	width:50%;
   	padding: 2rem 1rem;
   	font-size: 14px;
 }
