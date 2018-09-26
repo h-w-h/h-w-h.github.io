@@ -1,11 +1,11 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-plugins:          [jekyll-paginate]
-#plugins:
-# - jekyll-paginate
-# - jekyll-feed
-# - jekyll-seo-tag
+#plugins:          [jekyll-paginate]
+plugins:
+ - jekyll-paginate
+ - jekyll-feed
+ - jekyll-seo-tag
 
 # Permalinks
 permalink:        pretty
@@ -25,8 +25,8 @@ author:
   email:          contact@howardheaton.tech
   
 # social links
-#twitter_username: Howard
-#github_username:  Howard
+twitter_username: Howard
+github_username:  Howard
 #rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
