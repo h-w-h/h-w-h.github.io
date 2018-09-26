@@ -261,7 +261,7 @@ a.sidebar-nav-item:focus {
     color: #6a9fb5;
     text-align: center;
   	width:100%;
-  	padding: 0rem 1rem;
+  	padding: 0rem 0.5rem;
   	font-size: 16px;
     border-top: solid #6a9fb5 6px;
 }
@@ -273,7 +273,7 @@ a.sidebar-nav-item:focus {
     bottom: 0;
     width: 18rem;
     text-align: left;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
   }
 }
 
