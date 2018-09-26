@@ -18,6 +18,7 @@ theme_id: "d"
 author:
   name:           'Howard Heaton'
   url:            https://howardheaton.tech
+  email:          contact@howardheaton.tech
   
 # social links
 twitter_username: jekyllrb
