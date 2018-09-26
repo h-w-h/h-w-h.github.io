@@ -269,6 +269,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .footer {
     position: fixed;
+    padding: 2rem 1rem;
     left: 0;
     bottom: 0;
     width: 18rem;
