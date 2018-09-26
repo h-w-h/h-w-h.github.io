@@ -273,7 +273,7 @@ a.sidebar-nav-item:focus {
     bottom: 0;
     width: 18rem;
     text-align: left;
-    font-size: 1.25rem; /* Font size of site.title when full-screen on desktop
+    font-size: 1.25rem;  
   }
 }
 
