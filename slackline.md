@@ -16,7 +16,4 @@ Below are various slacklining photos over the past years.
      	<img src="/public/images/slackline/howard-SMHF-2012.jpg" alt="howard-heaton" class="image" style="width:95%; max-width:450px">     
   </center>
 </div>
- 
-
-
-![howard-SMHF-2012.jpg]({{site.baseurl}}/public/images/slackline/howard-SMHF-2012.jpg)
+  
