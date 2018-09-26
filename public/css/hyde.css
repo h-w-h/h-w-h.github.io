@@ -261,7 +261,7 @@ a.sidebar-nav-item:focus {
     color: #6a9fb5;
     text-align: center;
   	width:100%;
-  	padding: 2rem 1rem;
+  	padding: 0rem 0rem;
   	font-size: 14px;
 }
 
