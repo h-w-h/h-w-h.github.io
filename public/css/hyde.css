@@ -255,7 +255,7 @@ a.sidebar-nav-item:focus {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #6a9fb5;
-    color: white;
+    background-color: white;
+    color: #6a9fb5;
     text-align: center;
 }
