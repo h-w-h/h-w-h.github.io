@@ -43,6 +43,8 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
   <br />
 </div>
 
+![code-icon.png]({{site.baseurl}}/public/papers/code-icon.png)
+
 
 ## Papers ##
 
