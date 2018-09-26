@@ -256,6 +256,19 @@ a.sidebar-nav-item:focus {
 /**
  * Site footer
  */
+
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+</style>
+
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
@@ -320,4 +333,3 @@ a.sidebar-nav-item:focus {
     width:         calc(100% - (#{$spacing-unit} / 2));
   }
 }
-
