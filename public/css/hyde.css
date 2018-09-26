@@ -274,3 +274,12 @@ a.sidebar-nav-item:focus {
     text-align: left;
   }
 }
+
+@media (min-width: 48em) {
+  .footer-sticky {
+    position: absolute;
+    right:  1rem;
+    bottom: 1rem;
+    left:   1rem;
+  }
+}
