@@ -257,7 +257,7 @@ a.sidebar-nav-item:focus {
  * Site footer
  */
 
-<style>
+ 
 .footer {
    position: fixed;
    left: 0;
@@ -267,7 +267,7 @@ a.sidebar-nav-item:focus {
    color: white;
    text-align: center;
 }
-</style>
+ 
 
 .site-footer {
   border-top: 1px solid $grey-color-light;
