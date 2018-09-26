@@ -17,3 +17,8 @@ Below are various slacklining photos over the past years.
   </center>
 </div>
   
+  ![]({{site.baseurl}}//public/images/slackline/howard-wwu-campus.jpg)
+  
+  ![howard-wwu-campus.jpg]({{site.baseurl}}/public/images/slackline/howard-wwu-campus.jpg)
+![]({{site.baseurl}}//public/images/slackline/howard-kiwanis.jpg)![howard-kiwanis.jpg]({{site.baseurl}}/public/images/slackline/howard-kiwanis.jpg)
+![]({{site.baseurl}}//public/images/slackline/howard-memorial-day.jpg)![howard-memorial-day.jpg]({{site.baseurl}}/public/images/slackline/howard-memorial-day.jpg)
