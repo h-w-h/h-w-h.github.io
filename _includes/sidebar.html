@@ -21,7 +21,6 @@
           {% if node.layout == "page" %}
       		<!--     %<p style="font-size:14pt; color:white">   -->
             <a class="sidebar-nav-item{% if page.url contains node.url %}{% if node.url != '/' or page.url == node.url %} active{% endif %}{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-      		<br />
       		<!--  </p>  -->
           {% endif %}
         {% endif %}
