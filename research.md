@@ -79,9 +79,6 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
   </center>
 </div> 
 
- 
-
- 
 
 > Y. Censor, H. Heaton, and R.W. Schulte, Derivative-free superiorization with component-wise perturbations. _Numerical Algorithms_, Published April 11, 2018. DOI:10.1007/s11075-018-0524-0.
 
