@@ -262,7 +262,8 @@ a.sidebar-nav-item:focus {
     background-color: white;
     color: #6a9fb5;
     text-align: center;
-  padding: 2rem 1rem;
+  	width:48em;
+  	padding: 2rem 1rem;
 }
 
 @media (min-width: 48em) {
