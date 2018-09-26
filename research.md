@@ -64,7 +64,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
       </td>
       <td align="center" width = "34%">
         <div class="brightness">
-          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="bib-file" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
@@ -94,25 +94,25 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
     <tr>
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="https://rdcu.be/LjcS"><img src="/public/images/reprint-icon2.png" alt="Avatar" class="image" style="width:48px">
+          <a href="https://rdcu.be/LjcS"><img src="/public/images/reprint-icon2.png" alt="reprint" class="image" style="width:48px">
           </a> 
         </div>
       </td>      
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="/public/papers/2018-03-28-Der-Free-Sup-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="Avatar" class="image" style="width:48px">
+          <a href="/public/papers/2018-03-28-Der-Free-Sup-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:48px">
           </a> 
         </div>
       </td>
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="/public/citations/2018-Der-Free-Sup.bib"><img src="/public/images/cite-icon4.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/bib-files/2018-Der-Free-Sup.bib"><img src="/public/images/cite-icon4.png" alt="bib-file" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="/public/code/2018-Der-Free-Sup.zip"><img src="/public/images/code-icon.png" alt="Avatar" class="image" style="width:50px">
+          <a href="/public/code/2018-Der-Free-Sup.zip"><img src="/public/images/code-icon.png" alt="code" class="image" style="width:50px">
           </a>
         </div>
   	  </td>
