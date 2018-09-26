@@ -8,7 +8,7 @@ title: Slackline
    </h1>
 </div>
 
-Below are various slacklining photos over the past years.
+Below are various photos taken during my slacklining over the past years.
 
 <div class="featured">  
    <center>   
