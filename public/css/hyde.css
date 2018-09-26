@@ -250,7 +250,9 @@ a.sidebar-nav-item:focus {
 }
 
 
-
+.theme-base-0d .footer {
+  background-color: #6a9fb5;
+}
 .footer {
     position: fixed;
     left: 0;
