@@ -250,6 +250,11 @@ a.sidebar-nav-item:focus {
 }
 
 
+
+
+
+
+
 .footer {
     position: fixed;
     left: 0;
@@ -258,4 +263,20 @@ a.sidebar-nav-item:focus {
     background-color: white;
     color: #6a9fb5;
     text-align: center;
+}
+.sidebar {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
 }
