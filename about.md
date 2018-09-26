@@ -53,7 +53,7 @@ published: true
   	Outside of academia, two of my favorite hobbies are running and slacklining.
   	<br />  	
 	<div class="brightness">    
-      <a href="https://www.math.ucla.edu/~heaton/slackline.html">
+      <a href="/slackline/slackline">
       <img src="/public/images/slackline-icon.png" alt="slackline-icon" class="image" style="width:80px">
       </a>
     </div>
