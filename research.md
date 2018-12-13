@@ -42,9 +42,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
   <!-- This snippet gives a break in sections -->
   <br />
 </div>
-![howard-wwu-campus.jpg]({{site.baseurl}}/public/citations/howard-wwu-campus.jpg)
-
-
+ 
 
 ## Papers ##
 
