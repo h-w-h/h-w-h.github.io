@@ -4,7 +4,7 @@ title: Teaching
 published: true
 ---
 
-Currently, I am not a teaching assistant (TA) for any courses. Below is a table of previous courses I have TAed for along with my discussion notes.
+Currently, I am not a teaching assistant (TA) for any courses (due to exemption from my NSF Fellowship support). Below is a table of previous courses I have TAed for along with my discussion notes. 
  
 
 <div class = "featured">
@@ -15,7 +15,7 @@ Currently, I am not a teaching assistant (TA) for any courses. Below is a table 
       <th align="center">Course</th>
       <th align="center">TA Notes</th>
     </tr>
-    <tr>
+    <tr> 
       <td align="center" width = "33%">        
         Spring 2018
       </td>
