@@ -24,11 +24,7 @@ published: true
 </div>  
  
 
-<div class = "featured">
-  <center>
-    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:500px">
-  </center>
-</div>
+
 
 <p class="message">
   Welcome to my home page. I am a third year graduate student in the Math Department at UCLA. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. My primary area of research interest is optimization. Particular specialization interests include iterative first-order methods for solving fixed-point problems and their applications to image processing (e.g., denoising and image reconstruction) and other large scale optimization problems (e.g., machine learning).
@@ -53,10 +49,15 @@ published: true
 
 > _Tidbit:_ My Erdös number is 3 thanks to [Yair Censor](http://math.haifa.ac.il/yair/) who published with [Ron Aharoni](http://www.math.technion.ac.il/Site/people/process.php?id=687) who is an [Erdös 1](https://files.oakland.edu/users/grossman/enp/Erdos1.html).
  
- 
 <div class = "featured">
   <center>
-  	Outside of academia, two of my favorite hobbies are running and slacklining.
+    Outside of academia, I get to spend most of my time with my best friend (pictured).
+    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:500px">
+  </center>
+</div> 
+<div class = "featured">
+  <center>
+  	Two of my favorite hobbies are running and slacklining.
   	<br />  	
 	<div class="brightness">    
       <a href="/slackline/">
