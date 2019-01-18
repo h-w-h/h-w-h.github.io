@@ -62,6 +62,7 @@ published: true
     </div>
     I also get the privilege of spending a lot of time with my best friend (below). 
     <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px"> 
+  </center>
 </div>
 <div class = "featured">     
   <!-- Start of StatCounter Code for Default Guide -->
