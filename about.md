@@ -56,7 +56,7 @@ published: true
 </div> 
 <div class = "featured">
   <center>
-    Outside of academia, I get to spend most of my time with my wife and best friend (pictured).
+    Outside of academia, I get to spend most of my time with my wife and best friend.
   	Also, two of my favorite hobbies are running and slacklining.
   	<br />  	
 	<div class="brightness">    
