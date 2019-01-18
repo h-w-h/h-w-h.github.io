@@ -22,8 +22,7 @@ published: true
     table, th, td {border: 0px solid black;}
   </style>  
 </div>  
-
-
+![pic.jpg]({{site.baseurl}}/public/images/pic.jpg)
 
 
 
@@ -60,11 +59,7 @@ published: true
       <img src="/public/images/slackline-icon.png" alt="slackline-icon" class="image" style="width:80px">
       </a>
     </div>
-    I also get the privilege of spending a lot of time with my best friend (below). 
-    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px"> 
   </center>
-</div>
-<div class = "featured">     
   <!-- Start of StatCounter Code for Default Guide -->
   <script type="text/javascript">
   var sc_project=11458818; 
