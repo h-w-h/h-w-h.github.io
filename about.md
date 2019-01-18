@@ -51,7 +51,7 @@ published: true
  
 <div class = "featured">
   <center>    
-    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:600px">
+    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:90%; max-width:600px">
   </center>
 </div> 
 <div class = "featured">
