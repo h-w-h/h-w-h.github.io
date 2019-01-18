@@ -64,8 +64,8 @@ published: true
     <center>
     <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
   </center>
-    
-  </center>
+</div>
+<div class = "featured">     
   <!-- Start of StatCounter Code for Default Guide -->
   <script type="text/javascript">
   var sc_project=11458818; 
