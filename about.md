@@ -22,9 +22,13 @@ published: true
     table, th, td {border: 0px solid black;}
   </style>  
 </div>  
-![pic.jpg]({{site.baseurl}}/public/images/pic.jpg)
+ 
 
-
+<div class = "featured">
+  <center>
+    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
+  </center>
+</div>
 
 <p class="message">
   Welcome to my home page. I am a third year graduate student in the Math Department at UCLA. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. My primary area of research interest is optimization. Particular specialization interests include iterative first-order methods for solving fixed-point problems and their applications to image processing (e.g., denoising and image reconstruction) and other large scale optimization problems (e.g., machine learning).
