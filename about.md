@@ -26,7 +26,7 @@ published: true
 
 <div class = "featured">
   <center>
-    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:70%; max-width:400px">
+    <img src="/public/images/pic.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
   </center>
 </div>
 
