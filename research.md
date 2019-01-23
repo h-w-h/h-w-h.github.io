@@ -30,6 +30,9 @@ For example, if \\(f\\) is a blurry and grainy image, the classic Rudin-Osher-Fa
   \\[ J(u) := \int_\Omega |\nabla u | \ dx + \lambda \int_\Omega |u-f|^2 \ dx. \\] 
 Here \\(\nabla\\) denotes the gradient and \\(\lambda > 0\\) is a regularization parameter. Many image processing models exist and there are various sets of desirable features in different contexts. Nonlocal variational methods, which generalize local operators (e.g., gradients), have also been demonstrated to be quite effective in this field. Several algorithms also exist for solving these variational problems, often using fixed point algorithms.
 
+### *Machine Learning* ###
+The term "machine learning" is a common buzzword nowadays. Although there are many wonderful applications, my particular research interest related to this field falls under the category of "learning to optimize".
+
 ### *The Intersection of Methods* ###
 For a functional \\(J:\mathcal{H}\rightarrow \mathbb{R}\\), consider the constrained optimization problem
 \\[\min_{u\in C} J(u). \\]
