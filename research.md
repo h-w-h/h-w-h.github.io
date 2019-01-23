@@ -4,7 +4,7 @@ title: Research
 published: true
 ---
 ## Overview ##
-  The primary branch of research interest is optimization. 
+  The general branch of research interest is optimization. 
   The current particular specialization of interest is the intersection of iterative fixed point algorithms, variational modeling for image processing, asynchronous computations, and machine learning applications. Below we briefly describe each of these independently and note places where they intersect.
   
 ### *Convex Feasibility Problems* ###
