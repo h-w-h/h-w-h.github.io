@@ -5,7 +5,7 @@ published: true
 ---
 ## Overview ##
   The primary branch of research interest is optimization. 
-  The current particular specialization of interest is the intersection of iterative fixed point algorithms, variational modeling for image processing, asynchronous computations, and machine learning applications. Below we briefly describe each of these independently and where they intersect.
+  The current particular specialization of interest is the intersection of iterative fixed point algorithms, variational modeling for image processing, asynchronous computations, and machine learning applications. Below we briefly describe each of these independently and note places where they intersect.
   
 ### *Convex Feasibility Problems* ###
 Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets with nonempty intersection.  Convex feasibility problems (CFPs) consist of finding a point \\(x\\) in the intersection of the convex sets, i.e.,
