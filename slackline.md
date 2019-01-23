@@ -11,7 +11,7 @@ published: true
 
 Below are various photos taken during my slacklining over the past years.
 
-_(These are real.)_
+_(These are real and appropriate safety measures were taken.)_
 
 <div class="featured">  
    <center>   
