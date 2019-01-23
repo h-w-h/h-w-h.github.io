@@ -14,7 +14,7 @@ Iterative methods for solving this type of problem often use a sequence of opera
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
-noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\). 
+noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\). Current research on this subject pertains to generating rapid algorithms that scale for massive data sets and also developing methods that improve resilience to noisy and /or corrupted data.
 
 > The point \\(x^*\\) is usually a fixed point of some subset of the sequence of operators, causing such methods to often be called 'fixed point methods'. For examples, we refer the reader to the [projection onto covex sets (POCS) method](https://en.wikipedia.org/wiki/Projections_onto_convex_sets) and an [Algebraic Reconstruction Technique (ART)](https://en.wikipedia.org/wiki/Algebraic_reconstruction_technique).
   
