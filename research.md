@@ -51,7 +51,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
 
 ## Papers ##
 
-> H. Heaton and Y. Censor, Asynchronous Sequential Inertial Iterations for Common Fixed Points Problems with an Application to Linear Systems. _Journal of Global Optimization_ (accepted for publication), January 19, 2019.
+> H. Heaton and Y. Censor, Asynchronous Sequential Inertial Iterations for Common Fixed Points Problems with an Application to Linear Systems. _Journal of Global Optimization_ (accepted for publication), January 22, 2019.
 
 <div class = "featured">
   <center>
