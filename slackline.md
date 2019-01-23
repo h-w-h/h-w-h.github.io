@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Slackline
+published: true
 ---
 <div class="featured">
    <h1 class="page-title">
@@ -9,6 +10,8 @@ title: Slackline
 </div>
 
 Below are various photos taken during my slacklining over the past years.
+
+_(These are real.)_
 
 <div class="featured">  
    <center>   
