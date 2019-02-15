@@ -55,7 +55,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
 
 <div class = "featured">
   <center>
-  <table style="width: 200px">
+  <table style="width: 240px">
     <tr>
       <th align="center">Reprint</th>
       <th align="center">Preprint</th>
