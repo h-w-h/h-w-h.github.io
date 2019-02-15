@@ -60,7 +60,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
       <th align="center">Reprint</th>
       <th align="center">Preprint</th>
       <th align="center">Citation</th>
-      <th align="center">Code</th>
+      <th align="center">Slides</th>
     </tr>
       <td align="center" width = "25%">
         <div class="brightness">
