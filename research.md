@@ -55,7 +55,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
 
 <div class = "featured">
   <center>
-  <table style="width: 150px; background-color:rgba(0, 0, 0, 0);">
+  <table style="width: 200px; background-color:rgba(0, 0, 0, 0);">
     <tr>
       <th align="center">Reprint</th>
       <th align="center">Preprint</th>
@@ -69,19 +69,19 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
         </div>
       </td>          
     <tr>
-      <td align="center" width = "33%">
+      <td align="center" width = "25%">
         <div class="brightness">
           <a href="/public/papers/2018-08-15-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:48px">
           </a> 
         </div>
       </td>
-      <td align="center" width = "34%">
+      <td align="center" width = "25%">
         <div class="brightness">
           <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="bib-file" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
-      <td align="center" width = "33%">
+      <td align="center" width = "25%">
         <div class="brightness">
           <a href="/public/papers/2018-12-13-Heaton-ASI-Talk-Handout.pdf"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
           </a>
