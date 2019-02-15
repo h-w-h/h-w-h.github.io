@@ -61,14 +61,14 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
       <th align="center">Preprint</th>
       <th align="center">Citation</th>
       <th align="center">Slides</th>
-    </tr>
-      <td align="center" width = "25%">
+    </tr>         
+    <tr>
+        <td align="center" width = "25%">
         <div class="brightness">
           <a href="https://rdcu.be/bmTXV"><img src="/public/images/reprint-icon2.png" alt="reprint" class="image" style="width:48px">
           </a> 
         </div>
-      </td>          
-    <tr>
+      </td> 
       <td align="center" width = "25%">
         <div class="brightness">
           <a href="/public/papers/2019-01-23-ASI-arXiv-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:48px">
