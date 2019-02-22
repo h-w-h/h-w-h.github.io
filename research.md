@@ -97,7 +97,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
 
 <div class = "featured">
   <center>
-  <table style="width: 200px">
+  <table style="width: 180px">
     <tr>
       <th align="center">Reprint</th>
       <th align="center">Preprint</th>
@@ -105,19 +105,19 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
       <!--<th align="center">Code</th>-->
     </tr>
     <tr>
-      <td align="center" width = "25%">
+      <td align="center" width = "33%">
         <div class="brightness">
           <a href="https://rdcu.be/LjcS"><img src="/public/images/reprint-icon2.png" alt="reprint" class="image" style="width:48px">
           </a> 
         </div>
       </td>      
-      <td align="center" width = "25%">
+      <td align="center" width = "33%">
         <div class="brightness">
           <a href="/public/papers/2018-03-28-Der-Free-Sup-Preprint.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:48px">
           </a> 
         </div>
       </td>
-      <td align="center" width = "25%">
+      <td align="center" width = "33%">
         <div class="brightness">
           <a href="/public/bib-files/2018-Der-Free-Sup.bib"><img src="/public/images/cite-icon4.png" alt="bib-file" class="image" style="width:50px">
           </a> 
