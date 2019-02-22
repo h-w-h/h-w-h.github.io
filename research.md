@@ -77,7 +77,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
       </td>
       <td align="center" width = "25%">
         <div class="brightness">
-          <a href="/public/citations/2018-ASI.bib"><img src="/public/images/cite-icon4.png" alt="bib-file" class="image" style="width:50px">
+          <a href="/public/bib-files/2019-ASI.bib"><img src="/public/images/cite-icon4.png" alt="bib-file" class="image" style="width:50px">
           </a> 
         </div>
       </td>  
