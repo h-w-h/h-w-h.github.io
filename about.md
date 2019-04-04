@@ -57,9 +57,7 @@ published: true
 <div class = "featured">
   <center>
     Outside of academia, I get to spend most of my time with my wife and best friend and also with our puppy.
-
-<div class = "featured">
-    
+<div class = "featured">    
     <img src="/public/images/photo.jpg" alt="howard-heaton" class="image" style="width:90%; max-width:600px"> 
 </div> 
 <div class = "featured">   
