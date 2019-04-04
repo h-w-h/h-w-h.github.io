@@ -58,7 +58,6 @@ published: true
   <center>
     Outside of academia, I get to spend most of my time with my wife and best friend and also with our puppy.    
     <img src="/public/images/photo.jpg" alt="howard-heaton" class="image" style="width:90%; max-width:600px">     
-<div class = "featured">   
   	Also, two of my favorite hobbies are running and slacklining.
   	<br />  	
 	<div class="brightness">    
