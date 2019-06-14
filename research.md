@@ -11,7 +11,7 @@ fixed point methods in a general Hilbert space setting. This includes specialty 
 _(Research papers and slides are available at the bottom of this page.)_
 
 ### *Fixed Point Problems* ###
-Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space \\(\mathcal{H}\\) with a nonempty fixed point set \\( fix(\mathcal{T}) \\). Many optimization problems may be abstractly written in the form of a fixed point problem
+Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space \\(\mathcal{H}\\) with a nonempty fixed point set \\( fix(T) \\). Many optimization problems may be abstractly written in the form of a fixed point problem
 
  \\[ x \in C := \mbox{Find } x^\star \in \mbox{fix}(\mathcal{T}). \bigcap_{i=1}^m C_i. \\]
 
