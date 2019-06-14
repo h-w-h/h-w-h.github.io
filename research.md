@@ -19,7 +19,7 @@ For example, see the operators used for [Forward Backward Splitting (FBS)](https
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^\star \in \textm{fix}(T), \\]
-noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\). Current research on this subject pertains to generating rapid algorithms that scale for massive data sets and also developing methods that improve resilience to noisy and /or corrupted data.
+noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^\star\\).  
 
 > For other examples of operators and fixed point problems, we refer the reader to [ADMM](https://web.stanford.edu/~boyd/admm.html) and to the method of [alternating projections](https://en.wikipedia.org/wiki/Projections_onto_convex_sets).
   
