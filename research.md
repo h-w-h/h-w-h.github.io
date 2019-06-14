@@ -15,7 +15,7 @@ Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space 
 
  \\[  \textrm{Find} \   x^\star \in \textrm{fix}(T). \\]
 
-For example, see the operators used for [Forward Backward Splitting (FBS)](https://en.wikipedia.org/wiki/Proximal_gradient_methods_for_learning) and Douglas Rachford Splitting (DRS). Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) with common intersection equal to \\( \textrm{fix}(T) \\). Such methods define a sequence of points \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with an arbitrary initial point \\(x^1\\)  and updates computed via
+For example, see the operators used for [Forward Backward Splitting (FBS)](https://en.wikipedia.org/wiki/Proximal_gradient_methods_for_learning) and Douglas Rachford Splitting (DRS). Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) with fixed point sets whose common intersection equals \\( \textrm{fix}(T) \\). Such methods define a sequence of points \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with an arbitrary initial point \\(x^1\\)  and updates computed via
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
