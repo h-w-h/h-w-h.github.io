@@ -15,10 +15,7 @@ Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space 
 
  \\[  \textrm{Find} \   x^\star \in \textrm{fix}(T). \\]
 
-
-Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets with nonempty intersection.  Convex feasibility problems (CFPs) consist of finding a point \\(x\\) in the intersection of the convex sets, i.e.,
-  \\[x \in C := \bigcap_{i=1}^m C_i. \\]
-Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) and define a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with \\(x^1\\) arbitrary and the update
+For example, see the operators used for [Forward Backward Splitting (FBS)](https://en.wikipedia.org/wiki/Proximal_gradient_methods_for_learning) and Douglas Rachford Splitting (DRS). Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) and define a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with \\(x^1\\) arbitrary and the update
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
