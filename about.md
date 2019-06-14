@@ -27,7 +27,7 @@ published: true
 
 
 <p class="message">
-  Welcome to my home page. I am a third year graduate student in the Math Department at UCLA, researching under the advisement of <a href="http://www.math.ucla.edu/~wotaoyin/">Wotao Yin</a>. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. Information about my research, teaching and qualifying exam notes, and tutoring can be found through links in the menu.
+  Welcome to my home page. I am a third year graduate student in the Math Department at UCLA, researching under the advisement of <a href="http://www.math.ucla.edu/~wotaoyin/">Wotao Yin</a>. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. Information about my research, teaching and qualifying exam notes, and tutoring can be found via links in the menu.
 </p>
 
 <div class = "featured">
