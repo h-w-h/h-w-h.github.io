@@ -18,7 +18,7 @@ Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space 
 For example, see the operators used for [Forward Backward Splitting (FBS)](https://en.wikipedia.org/wiki/Proximal_gradient_methods_for_learning) and Douglas Rachford Splitting (DRS). Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) with fixed point sets whose common intersection equals \\( \textrm{fix}(T) \\). Such methods define a sequence of points \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with an arbitrary initial point \\(x^1\\)  and updates computed via
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
-\\[ \lim_{k\rightarrow\infty} x^k = x^* \in C, \\]
+\\[ \lim_{k\rightarrow\infty} x^k = x^\star \in C, \\]
 noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^*\\). Current research on this subject pertains to generating rapid algorithms that scale for massive data sets and also developing methods that improve resilience to noisy and /or corrupted data.
 
 > For other examples, we refer the reader to [ADMM](https://web.stanford.edu/~boyd/admm.html), the [projection onto covex sets (POCS) method](https://en.wikipedia.org/wiki/Projections_onto_convex_sets) and an [Algebraic Reconstruction Technique (ART)](https://en.wikipedia.org/wiki/Algebraic_reconstruction_technique).
