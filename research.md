@@ -5,17 +5,7 @@ published: true
 ---
 ## Overview ##
 The primary area of research is optimization with a focus on developing fast and memory efficient iterative
-fixed point methods in a general Hilbert space setting. This includes parallel asynchronous methods
-where each computing agent (e.g., CPU core) computes its update with the most recent information
-received, even if the latest results from other agents have not arrived. Asynchronous computing offers
-great improvement over synchronous computing with respect to computational efficiency and resilience to
-delays from failed communication and/or slow agents. Another area of current research is developing a
-general theory and framework for incorporating machine learning into algorithmic development where an
-individual problem must be repeatedly solved, each time with new (but similar) data. Recent works have
-experimentally shown it is possible to use a collection of data to “learn” a new task-specific algorithm for
-solving the problem at hand, which is able to execute order(s) of magnitude faster than corresponding
-state-of-the-art algorithms. This research may apply to feature extractions in real-time vision and pattern
-recognition systems, object detection, image restoration, medical imaging, etc.
+fixed point methods in a general Hilbert space setting. This includes specialty interests in parallel asynchronous methods and "learning to optimize", where machine learning is incoporated into algorithmic development for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. 
  
  
 _(Research papers and slides are available at the bottom of this page.)_
