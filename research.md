@@ -18,7 +18,7 @@ Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space 
 For example, see the operators used for [Forward Backward Splitting (FBS)](https://en.wikipedia.org/wiki/Proximal_gradient_methods_for_learning) and Douglas Rachford Splitting (DRS). Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) with fixed point sets whose common intersection equals \\( \textrm{fix}(T) \\). Such methods define a sequence of points \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with an arbitrary initial point \\(x^1\\)  and updates computed via
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
-\\[ \lim_{k\rightarrow\infty} x^k = x^\star \in \textm{fix}(T), \\]
+\\[ \lim_{k\rightarrow\infty} x^k = x^\star \in \textrm{fix}(T), \\]
 noting whether the convergence is weak or strong. Second to this, we often seek results regarding the rate at which \\(x^k\longrightarrow x^\star\\). Asynchronous methods and "learned" methods help improve convergence of such fixed point methods over classic approaches with respect to computation and network communication efficiency.
 
 > For other examples of operators and fixed point problems, we refer the reader to [ADMM](https://web.stanford.edu/~boyd/admm.html) and to the method of [alternating projections](https://en.wikipedia.org/wiki/Projections_onto_convex_sets).
