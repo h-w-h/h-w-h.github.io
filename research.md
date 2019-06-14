@@ -11,7 +11,8 @@ fixed point methods in a general Hilbert space setting. This includes specialty 
 _(Research papers and slides are available at the bottom of this page.)_
 
 ### *Fixed Point Problems* ###
-Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space \\(\mathcal{H}\\) with a nonempty fixed point set \\(\rmfamily{fix}(\mathcal{T})\\).
+Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space \\(\mathcal{H}\\) with a nonempty fixed point set \\(\rmfamily{fix}(\mathcal{T})\\). Many optimization problems may be abstractly written in the form of a fixed point problem
+\\[\rmfamily{Find } x^\star \in \rmfamily{fix}(\mathcal{T}). \\]
 
 
 Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets with nonempty intersection.  Convex feasibility problems (CFPs) consist of finding a point \\(x\\) in the intersection of the convex sets, i.e.,
