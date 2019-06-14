@@ -10,7 +10,8 @@ fixed point methods in a general Hilbert space setting. This includes specialty 
  
 _(Research papers and slides are available at the bottom of this page.)_
 
-### *Convex Feasibility Problems* ###
+### *Fixed Point Problems* ###
+Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space \\(\mathcal{H}\\).
 Let \\( \lbrace C_i\rbrace_{i=1}^m \\) be a finite family of closed convex sets with nonempty intersection.  Convex feasibility problems (CFPs) consist of finding a point \\(x\\) in the intersection of the convex sets, i.e.,
   \\[x \in C := \bigcap_{i=1}^m C_i. \\]
 Iterative methods for solving this type of problem often use a sequence of operators \\( \lbrace T_k \rbrace_{k=1}^\infty \\) and define a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) with \\(x^1\\) arbitrary and the update
