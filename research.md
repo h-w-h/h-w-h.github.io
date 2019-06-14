@@ -5,7 +5,7 @@ published: true
 ---
 ## Overview ##
 The primary area of research is optimization with a focus on developing fast and memory efficient iterative
-fixed point methods in a general Hilbert space setting. This includes specialty interests in parallel asynchronous methods and "learning to optimize", where machine learning is incoporated into algorithmic development for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. 
+fixed point methods in a general Hilbert space setting. This includes specialty interests in parallel asynchronous methods and "learning to optimize". In the later subject, machine learning is incoporated into algorithmic development for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. 
  
  
 _(Published research papers and slides are available at the bottom of this page.)_
