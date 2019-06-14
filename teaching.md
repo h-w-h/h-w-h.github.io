@@ -4,7 +4,7 @@ title: Teaching
 published: true
 ---
 
-Currently, I am not a teaching assistant (TA) for any courses (due to exemption from my NSF Fellowship support). Below is a table of previous courses I have TAed for along with my discussion notes. 
+Currently, I am not a teaching assistant (TA) for any courses (due to exemption from my NSF Fellowship support). Below is a table of previous courses I have TAed for along with my discussion notes for students. Some of these notes are password protected because they contain many solutions to textbook problems; feel free to email me if you are interested in these materials.
  
 
 <div class = "featured">
