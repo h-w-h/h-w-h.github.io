@@ -8,7 +8,7 @@ The primary area of research is optimization with a focus on developing fast and
 fixed point methods in a general Hilbert space setting. This includes specialty interests in parallel asynchronous methods and "learning to optimize", where machine learning is incoporated into algorithmic development for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. 
  
  
-_(Research papers and slides are available at the bottom of this page.)_
+_(Published research papers and slides are available at the bottom of this page.)_
 
 ### *Fixed Point Problems* ###
 Let \\(T:\mathcal{H}\rightarrow\mathcal{H}\\) be an operator on a Hilbert space \\(\mathcal{H}\\) with a nonempty fixed point set \\( \textrm{fix}(T) \\). Many optimization problems may be abstractly written in the form of a fixed point problem
