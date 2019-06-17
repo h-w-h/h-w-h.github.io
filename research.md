@@ -5,7 +5,7 @@ published: true
 ---
 ## Overview ##
 The primary area of research is optimization with a focus on developing fast and memory efficient iterative
-fixed point methods in a general Hilbert space setting. This includes specialty interests in parallel asynchronous methods and "learning to optimize". In the later subject, machine learning is incoporated into algorithmic development for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. Below is a brief overview of the setting of fixed point problems. In this context, summaries are then provided of asynchronous and learned methods. Following this, a brief note is made about variational methods in image processing (an application problem).
+fixed point methods in a general Hilbert space setting. This includes specialty interests in parallel asynchronous methods and "learning to optimize". In the latter subject, machine learning is incoporated into algorithmic development for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. Below is a brief overview of the setting of fixed point problems. In this context, summaries are then provided of asynchronous and learned methods. Following this, a brief note is made about variational methods in image processing (an application problem).
  
  
 _(Published research papers and slides are available at the bottom of this page.)_
