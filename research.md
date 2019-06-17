@@ -141,7 +141,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
 
 <div class = "featured">
   <center>
-    Click below to see   research available through other websites. <br /> <br />
+    Click below to see these papers listed on other websites. <br /> <br />
         <div class="brightness">
           <a href="https://scholar.google.com/citations?user=blvaFx4AAAAJ&hl=en"><img src="/public/images/google-scholar-icon.png" alt="google-scholar" class="image" style="width:70px">
           </a>
