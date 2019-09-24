@@ -4,8 +4,11 @@ title: Research
 published: true
 ---
 ## Overview ##
-The primary area of research is optimization with a focus on developing fast and memory efficient iterative
-fixed point methods for large scale computing problems. This includes specialty interests in parallel asynchronous methods and "learning to optimize". In the latter subject, machine learning is incoporated into algorithmic development for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. Below is a brief overview of the setting of fixed point problems. In this context, summaries are then provided of asynchronous and learned methods. Following this, a brief note is made about variational methods in image processing (an application problem). 
+
+The primary of field of research is optimization with a focus on developing fast and scalable iterative methods for large scale and real-time computations. Specialty interests pertaining to this focus include asynchronous computing (where GPUs work independently of each other) and use machine learning tools to automate creation of rapid task-specific algorithms, which is called "learning to optimize" (L2O). The latter  subject is of particular interest for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. Such applications include computer vision problems, language processing, CT image reconstruction, etc.
+Below are highlights from these areas of research.
+To be sufficiently general to include all major methods for convex optimization, theoretical guarantees are developed using fixed point theory. 
+Below is a brief overview of the setting of fixed point problems. Summaries are then provided of asynchronous and L2O methods.  
  
  
 _(Published research papers and slides are available at the bottom of this page.)_
