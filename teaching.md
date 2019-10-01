@@ -17,6 +17,20 @@ Currently, I am not a teaching assistant (TA) for any courses (due to exemption 
     </tr>
     <tr> 
       <td align="center" width = "33%">        
+        Fall 2019
+      </td>
+      <td align="center" width = "34%">
+        Math 164
+      </td>  
+      <td align="center" width = "33%">
+        <div class="brightness">
+          <a href="/public/TA-notes/2018S-Heaton-MATH-131A-Discussion-Notes.pdf"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
+          </a>
+        </div>
+  	  </td>
+    </tr>
+    <tr> 
+      <td align="center" width = "33%">        
         Spring 2018
       </td>
       <td align="center" width = "34%">
