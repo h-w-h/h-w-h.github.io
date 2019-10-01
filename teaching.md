@@ -129,7 +129,7 @@ Currently, I am not a teaching assistant (TA) for any courses (due to exemption 
     </tr>       
   </table>
   </center>
-  <!-- Default Statcounter code for Heaton Website
+ <!-- Default Statcounter code for Heaton Website
 http://howardheaton.tech -->
 <script type="text/javascript">
 var sc_project=11458818; 
