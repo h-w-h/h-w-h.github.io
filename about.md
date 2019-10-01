@@ -66,5 +66,4 @@ published: true
       </a>
     </div>
   </center>
-
-  
+  </div>
