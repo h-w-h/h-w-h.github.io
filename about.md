@@ -65,7 +65,6 @@ published: true
       </a>
     </div>
   </center>
-</div>
 <!-- Default Statcounter code for Heaton Website
 http://howardheaton.tech -->
 <script type="text/javascript">
@@ -82,3 +81,4 @@ class="statcounter"
 src="https://c.statcounter.com/11458818/0/c3a494a0/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->  
+</div>
