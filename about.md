@@ -57,7 +57,7 @@ published: true
 <div class = "featured">
   <center>
     Outside of academia, I get to spend most of my time with my wife (best friend).
-  	Two of my favorite hobbies are running and slacklining.
+  	A few of my favorite hobbies are running, surfing, and slacklining.
   	<br />  	
 	<div class="brightness">    
       <a href="/slackline/">
