@@ -27,7 +27,7 @@ published: true
 
 
 <p class="message">
-  Welcome to my home page. I am a fourth year graduate student in the UCLA Math Department, researching under the advisement of <a href="http://www.math.ucla.edu/~wotaoyin/">Wotao Yin</a>. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. Information about my research, teaching and qualifying exam notes, and tutoring can be found via links in the menu.
+  Welcome to my home page. I am a fourth year graduate student in the UCLA Math Department, researching under the advisement of <a href="http://www.math.ucla.edu/~wotaoyin/">Wotao Yin</a>. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. Information about my research, teaching notes, qualifying exam notes, and tutoring can be found via links in the menu.
 </p>
 
 > _MATH 164 Students:_ Discussion notes  may be found [here](http://howardheaton.tech/public/TA-notes/2019F-Heaton-MATH-164-Discussion-Notes.pdf).  
