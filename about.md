@@ -31,7 +31,7 @@ published: true
 </p>
 
 > _MATH 164 Students:_ Discussion notes  may be found [here](http://howardheaton.tech/public/TA-notes/2019F-Heaton-MATH-164-Discussion-Notes.pdf).  
-(Last Updated: Oct. 4, 2019)
+(Last Updated: Oct. 8, 2019)
 
 <div class = "featured">
   <center>
