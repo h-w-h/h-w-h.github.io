@@ -22,7 +22,7 @@ For example, when minimizing the a function \\(f\\) we may, for appropriate \\(\
  \\[ x^{k+1} := T_k \left( x^k \right), \ \ \forall \ k \geq 1. \\]
 The main sort of result is usually to assert the chosen sequence of operators and update iteration yields
 \\[ \lim_{k\rightarrow\infty} x^k = x^\star \in \textrm{fix}(T). \\]
-Second to this,  results are often sought regarding the rate at which \\(x^k\longrightarrow x^\star\\) and the behavior of iterates in the presence of different sources of noise. Asynchronous methods and "learned" methods are being developed to further improve convergence of such fixed point methods both for massive scale problems and tasks that must be completed in real time.
+Second to this,  results are often sought regarding the rate at which \\(x^k\longrightarrow x^\star\\) and the behavior of iterates in the presence of different sources of noise. Asynchronous and L2O methods are being developed to further improve convergence of such fixed point methods both for massive scale problems and tasks that must be completed in real time.
 
 > For some other examples of such operators (e.g., for ADMM, Proximal-Gradent, and Douglas-Rachford splitting), we refer the reader to Table 1 in the recent  [paper](https://arxiv.org/pdf/1609.04746.pdf) by Hannah and Yin.
   
