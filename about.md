@@ -40,16 +40,7 @@ Office Hours: Mon 12:00 to 1:00 PM, Tue 12:00 to 2:00 PM
   </center>
 </div>
 
-<div class = "featured">
-  	<center>
-  	More of my background can be found via my Curriculum Vitae.
-  	<br />  	
-	<div class="brightness">
-      <a href="/public/heaton-cv.pdf"><img src="/public/images/cv-icon2.png" alt="CV" class="image" style="width:60px">
-      </a>
-    </div>
-  </center>
-</div>
+
 
 > _Tidbit:_ My Erdös number is 3 thanks to [Yair Censor](http://math.haifa.ac.il/yair/) who published with [Ron Aharoni](http://www.math.technion.ac.il/Site/people/process.php?id=687) who is an [Erdös 1](https://files.oakland.edu/users/grossman/enp/Erdos1.html).
  
