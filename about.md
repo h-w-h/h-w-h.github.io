@@ -31,7 +31,7 @@ published: true
 </p>
 
 > _MATH 164 Students:_ Discussion notes  may be found [here](http://howardheaton.tech/public/TA-notes/2019F-Heaton-MATH-164-Discussion-Notes.pdf).   
-(Last Updated: Nov. 19, 2019) <br />
+(Last Updated: Nov. 26, 2019) <br />
 Office Hours: Mon 12:00 to 1:00 PM, Tue 12:00 to 2:00 PM
 
 <div class = "featured">
