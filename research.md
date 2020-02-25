@@ -50,6 +50,41 @@ The term "machine learning" is a common buzz phrase nowadays. Although there are
 ## Papers ##
 Below is a paper that presents the asynchronous sequential inertial (ASI) algorithm that weaves together convex feasibility problems and asynchronous methods in a simple manner while also introducing inertial terms. Additionally, there is a paper on superiorization, which is a heuristic methodology that lies somewhere between the feasibility-seaking and constrained minimization branches of optimization. This methodology takes the hypothesis above and provides a general framework that has been shown in many papers to be quite efficacious. Although the superiorization method generates a sequence \\(\lbrace x^k \rbrace_{k=1}^\infty \\) that provably converges to a feasibile point, limited results are known regarding the cost function values \\(\phi(x^k)\\) as \\(k\longrightarrow \infty\\). See Professor Yair Censor's [webpage](http://math.haifa.ac.il/YAIR/bib-superiorization-censor.html) for a comprehensive bibliography of papers on this topic. More results on the "learning to optimize" subject will be shared later this year.
 
+> H. Heaton and X. Chen and Z. Wang and W. Yin, Safeguarded Learned Convex Optimization. _Submitted_, Published February 25, 2020.
+
+<div class = "featured">
+  <center>
+  <table style="width: 260px">
+    <tr> 
+      <th align="center">Preprint</th>
+      <th align="center">Citation</th>
+      <th align="center">Slides</th>
+    </tr>         
+    <tr>
+      <td align="center" width = "34%">
+        <div class="brightness">
+          <a href="/public/papers/2020-02-25-Safe-L2O-with-Appendix.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:48px">
+          </a> 
+        </div>
+      </td>
+      <td align="center" width = "33%">
+        <div class="brightness">
+          <a href="/public/bib-files/2020-Safe-L2O.bib"><img src="/public/images/cite-icon4.png" alt="bib-file" class="image" style="width:50px">
+          </a> 
+        </div>
+      </td>  
+      <td align="center" width = "33%">
+        <div class="brightness">
+          <a href="/public/papers/2020-02-25Safe-L2O-Slides.pdf"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
+          </a>
+        </div>
+  	  </td>
+    </tr>
+  </table>
+  </center>
+</div> 
+
+
 > H. Heaton and Y. Censor, Asynchronous Sequential Inertial Iterations for Common Fixed Points Problems with an Application to Linear Systems. _Journal of Global Optimization_, Published February 14, 2019. DOI:10.1007/s10898-019-00747-4.
 
 <div class = "featured">
