@@ -63,7 +63,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
     <tr>
       <td align="center" width = "34%">
         <div class="brightness">
-          <a href="/public/papers/2020-02-25-Safe-L2O-with-Appendix.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:48px">
+          <a href="/public/papers/2020-03-03-Safe-L2O-arXiv.pdf"><img src="/public/images/preprint-icon2.png" alt="preprint" class="image" style="width:48px">
           </a> 
         </div>
       </td>
@@ -75,7 +75,7 @@ Below is a paper that presents the asynchronous sequential inertial (ASI) algori
       </td>  
       <td align="center" width = "33%">
         <div class="brightness">
-          <a href="/public/papers/2020-02-25Safe-L2O-Slides.pdf"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
+          <a href="/public/papers/2020-03-03-Safe-L2O-Slides.pdf"><img src="/public/images/preprint-icon2.png" alt="code" class="image" style="width:50px">
           </a>
         </div>
   	  </td>
