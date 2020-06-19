@@ -4,7 +4,7 @@ title: Research
 published: true
 ---
 
-(This page is under construction and will be updated on July 1, 2020.)
+(This page is under construction for significant updates and will be updated on July 1, 2020.)
 
 ## Overview ##
 
