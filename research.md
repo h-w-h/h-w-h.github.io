@@ -3,6 +3,9 @@ layout: page
 title: Research
 published: true
 ---
+
+(This page is under construction and will be updated on July 1, 2020.)
+
 ## Overview ##
 
 The primary of field of research is optimization with a focus on developing fast and scalable iterative methods for large scale and real-time computations. These tools are particularly suited for machine learning applications. Specialty interests pertaining to this focus include asynchronous computing (where GPUs work independently of each other) and the use of machine learning to automate creation of rapid task-specific algorithms, which is called "learning to optimize" (L2O). The latter  subject is of particular interest for situations where an individual problem must be repeatedly solved, each time with new (but similar) data. Such applications include computer vision problems, language processing, CT image reconstruction, etc. Coming L2O extensions include stochastic and nonconvex settings involved in training neural networks.
