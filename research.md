@@ -4,7 +4,7 @@ title: Research
 published: true
 ---
 
-(Significant updates to the contents of this page will occur on July 1, 2020.)
+(Significant updates to the contents of this page will occur mid July 2020 upon the posting of the next preprint.)
 
 ## Overview ##
 
