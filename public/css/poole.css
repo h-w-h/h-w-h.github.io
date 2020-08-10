@@ -46,9 +46,10 @@ body {
   margin: 0;
   padding: 0;
 }
+<link href='https://fonts.googleapis.com/css?family=Alatsi' rel='stylesheet'>
 
 html {
-  font-family: Questrial, serif;
+  font-family: Alatsi, serif;
   font-size: 16px;
   line-height: 1.5;
 }
