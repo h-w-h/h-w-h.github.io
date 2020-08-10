@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Questrial, Arial, sans-serif;
+  font-family: Questrial;
 }
 @media (min-width: 48em) {
   html {
