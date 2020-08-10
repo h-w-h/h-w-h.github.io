@@ -27,14 +27,14 @@ published: true
 
 
 <p class="message">
-  Welcome to my home page. I am a PhD Candidate in the UCLA Math Department, researching optimization/machine learning under the advisement of <a href="http://www.math.ucla.edu/~wotaoyin/">Wotao Yin</a>. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. Information about my research, teaching notes, qualifying exam notes, and tutoring can be found via links in the menu.
+  Welcome. I am a PhD Candidate in the UCLA Math Department, researching optimization/machine learning under the advisement of <a href="http://www.math.ucla.edu/~wotaoyin/">Wotao Yin</a>. I completed my undergraduate studies at Walla Walla University with majors in Computer Science, Mathematics, and Physics. Information about my research, teaching notes, qualifying exam notes, and tutoring can be found via links in the menu.
 </p>
 
 
 
 <div class = "featured">
   <center>
-    <img src="/public/images/howard-heaton.png" alt="howard-heaton" class="image" style="width:95%; max-width:400px">
+    <img src="/public/images/howard-heaton.png" alt="howard-heaton" class="image" style="width:100%; max-width:400px">
   </center>
 </div>
 
@@ -45,7 +45,6 @@ published: true
 <div class = "featured">
   <center>
     Outside of academia, I get to spend most of my time with my wife (best friend).
-	<br />  
   	A few of my favorite hobbies are running, surfing, and slacklining.
   	<br />  	
 	<div class="brightness">    
