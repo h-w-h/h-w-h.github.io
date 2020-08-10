@@ -34,7 +34,7 @@ published: true
 
 <div class = "featured">
   <center>
-    <img src="/public/images/howard-heaton.jpg" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
+    <img src="/public/images/howard-heaton.png" alt="howard-heaton" class="image" style="width:80%; max-width:400px">
   </center>
 </div>
 
